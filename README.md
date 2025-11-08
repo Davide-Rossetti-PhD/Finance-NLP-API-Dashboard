@@ -3,7 +3,7 @@
 **FinNLP** is a full-stack finance project powered by **FastAPI**, **Streamlit**, **SQLite**, and **OpenAI GPT**.  
 It generates synthetic financial data, provides smart visual analytics, and creates **AI-written financial reports** and **natural language Q&A**.
 
-> 🚀 Built for hackathons, portfolio demos, and AI finance enthusiasts.  
+> 🚀 Built for personal projects, AI financial dashboards, and API Hackaton.  
 > Everything runs automatically with **one single command**.
 
 ---
