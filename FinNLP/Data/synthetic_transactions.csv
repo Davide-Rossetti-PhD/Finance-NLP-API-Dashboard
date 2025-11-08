@@ -1,0 +1,1001 @@
+id,date,description,amount,currency,merchant,category,city,country
+cc3a2d93-e35d-4a33-95a1-666f090ae84b,2025-06-28,Tesco Lake Henrybury,-223.76,EUR,Tesco,Groceries,Lake Henrybury,Czech Republic
+897ca111-16f6-474e-872f-1853ed214300,2024-12-27,Zara Lake Janiceland,-222.26,USD,Zara,Shopping,Lake Janiceland,Nauru
+46dab0e6-ab75-44ec-bb57-a40f6ddb34c3,2025-04-09,Salary ACME Ltd North Charliebury,179.2,EUR,Salary ACME Ltd,Income,North Charliebury,Madagascar
+859239d3-0622-4b32-b99a-05f90a1f9bd1,2025-06-14,McDonald's Lake Francesca,-69.5,USD,McDonald's,Food,Lake Francesca,Reunion
+004d96b6-0239-458a-a882-056949c77a27,2025-05-24,PayPal South Joan,-170.57,USD,PayPal,Other,South Joan,Fiji
+89e9b21e-1361-45c0-8026-d94990b77b96,2025-08-29,Freelance Payment Port Samchester,70.03,USD,Freelance Payment,Income,Port Samchester,Guam
+dd006a11-8075-4335-9a64-1af25ef67424,2025-02-15,Netflix Port Tom,-228.85,EUR,Netflix,Entertainment,Port Tom,Bosnia and Herzegovina
+77c3e94b-04bd-4778-a612-4d665d714725,2024-12-09,PureGym West Leighview,-86.97,EUR,PureGym,Health,West Leighview,Sri Lanka
+72ea4f23-f864-44ac-b3ce-fc7027d200d8,2024-11-21,British Gas Wilkinsonfurt,-32.36,EUR,British Gas,Utilities,Wilkinsonfurt,Belgium
+c6fe3479-a909-491d-86e8-c65e8a6c1bc5,2025-05-27,EE Mobile Melissaborough,-183.1,EUR,EE Mobile,Utilities,Melissaborough,Romania
+ccc029c5-28d0-4c97-b23f-766f92026cb3,2024-12-01,Ryanair Port Gregory,-292.07,GBP,Ryanair,Travel,Port Gregory,Belgium
+631de816-57f1-40e5-bae3-ef94a657394b,2025-09-15,Waitrose South Rickymouth,-91.49,USD,Waitrose,Groceries,South Rickymouth,North Macedonia
+fbf41eff-da61-45c5-b976-858105669cde,2025-09-07,TransferWise West Owen,-175.32,USD,TransferWise,Other,West Owen,Cote d'Ivoire
+c4d73d76-4157-4a5e-bfe6-eb31abf09dd4,2025-07-09,Tesco New Heatherburgh,-200.07,GBP,Tesco,Groceries,New Heatherburgh,Martinique
+00eeb2ca-af61-41ba-b14d-11ef41f7ac82,2025-07-30,Sainsbury's South Jessica,-260.61,GBP,Sainsbury's,Groceries,South Jessica,Faroe Islands
+3194d8a3-25fa-489b-8f43-251c342ff70d,2025-11-03,PlayStation Store Lake Victor,-192.53,GBP,PlayStation Store,Entertainment,Lake Victor,Tajikistan
+f653c241-3957-4d74-91a5-47df1690c0c7,2025-08-14,Shell East Ryanmouth,-109.8,USD,Shell,Transport,East Ryanmouth,Iran
+d9def8b3-ac19-4fdd-aa7d-b1958a87a3bc,2025-02-11,Netflix New Guy,-184.69,EUR,Netflix,Entertainment,New Guy,Croatia
+bebfb2bd-d6c0-4ed4-a37a-e5e9ac3440a0,2025-07-03,Tax Refund Youngmouth,77.22,GBP,Tax Refund,Income,Youngmouth,Cambodia
+36afd663-faa1-4ebb-a281-055c35986b76,2025-02-10,PureGym Lake Chelsea,-296.91,USD,PureGym,Health,Lake Chelsea,Mauritania
+200907fa-3e22-4dea-9d7b-e04a066ab19b,2025-02-10,Salary ACME Ltd Bartlettfurt,206.96,EUR,Salary ACME Ltd,Income,Bartlettfurt,Guyana
+8c25c8e3-ea9e-42ae-858f-6a0402129fb2,2025-01-25,Amazon New Valerie,-242.49,GBP,Amazon,Shopping,New Valerie,Bermuda
+2ad68e87-6abd-451a-96f5-4072a79e27a4,2025-08-09,Netflix East Teresaburgh,-67.24,USD,Netflix,Entertainment,East Teresaburgh,Somalia
+9eeb5def-eabd-4240-a702-5814ca6c7926,2025-07-13,Thames Water South Margaretmouth,-198.35,GBP,Thames Water,Utilities,South Margaretmouth,Marshall Islands
+15812f13-0305-4059-bb13-398693ee5607,2025-02-06,Booking.com Lake Geoffreyside,-83.14,EUR,Booking.com,Travel,Lake Geoffreyside,Sao Tome and Principe
+4926c97b-7b90-401b-b9dc-7bdb03f5ba36,2025-02-11,Tax Refund Nathanport,82.51,USD,Tax Refund,Income,Nathanport,Jordan
+f2c0e9d8-9ede-4d8b-bf94-41528165e234,2025-01-02,Vision Express Lake Marcushaven,-111.79,EUR,Vision Express,Health,Lake Marcushaven,Serbia
+113918c3-f086-4aca-b0d6-0db109979d79,2025-01-10,Freelance Payment Port Kayleighport,31.82,EUR,Freelance Payment,Income,Port Kayleighport,Tajikistan
+73bcac65-7044-4e74-a487-684fad8aafbe,2025-06-27,Sainsbury's East Karen,-190.1,USD,Sainsbury's,Groceries,East Karen,Serbia
+3917315b-a480-4e58-8673-17682f4fd761,2025-01-04,Boots Pharmacy New Brandonfort,-118.51,USD,Boots Pharmacy,Health,New Brandonfort,Andorra
+0fc5c2f5-c9fb-4f67-bdb3-1f0881710080,2024-12-16,Airbnb Mohammadbury,-291.47,EUR,Airbnb,Travel,Mohammadbury,Azerbaijan
+c39c37fb-7410-47d3-a303-e31bdc8fbf7c,2025-02-02,Waitrose North Danielleland,-226.51,USD,Waitrose,Groceries,North Danielleland,Senegal
+70f5b170-315c-44dd-99c0-5717ad6c98da,2025-05-19,British Gas East Katy,-91.58,EUR,British Gas,Utilities,East Katy,Lebanon
+41b85209-3fca-44ae-b952-e4c60725438d,2025-10-18,Ryanair West Debra,-286.38,USD,Ryanair,Travel,West Debra,Tunisia
+419bf7b8-dc3c-4dfc-9c62-921a9329f339,2025-06-16,Spotify New Hollie,-154.77,EUR,Spotify,Entertainment,New Hollie,Cook Islands
+d42ec819-6e06-4fc6-a50f-d08efea9f64c,2025-07-24,Spotify Turnerstad,-50.09,EUR,Spotify,Entertainment,Turnerstad,Kazakhstan
+dd0d77fe-f1e4-44c8-8e90-5278d1423dfa,2025-10-01,Tax Refund O'Neillbury,275.96,USD,Tax Refund,Income,O'Neillbury,Bahrain
+fec6a694-6aaa-4381-9527-8709263cf3b5,2025-03-09,Octopus Energy New Gerald,-10.75,GBP,Octopus Energy,Utilities,New Gerald,Albania
+d2976c4d-510c-4085-be45-5611bfb8ad41,2024-12-01,Spotify East Josephton,-22.09,USD,Spotify,Entertainment,East Josephton,Tokelau
+0c96bfce-9f8d-4b38-bca7-fb2c76dde78a,2025-03-06,Tesco West Aimee,-220.91,EUR,Tesco,Groceries,West Aimee,Libyan Arab Jamahiriya
+ae184f2d-0881-4ae8-8e8d-35489960e47e,2025-01-23,Salary ACME Ltd Lake Alexandra,42.88,GBP,Salary ACME Ltd,Income,Lake Alexandra,Morocco
+b9d8a907-0bb3-478c-ac28-7dda5c627c7b,2025-04-27,Salary ACME Ltd Mannborough,83.19,USD,Salary ACME Ltd,Income,Mannborough,Bhutan
+bbce53dc-707a-4232-989c-13562fc1dbd2,2024-12-11,NHS Prescription Nixonchester,-279.03,USD,NHS Prescription,Health,Nixonchester,Lao People's Democratic Republic
+73087132-0b6a-4fab-9ff5-f80f2ffc76f7,2025-09-18,H&M Lake Hilaryville,-122.7,USD,H&M,Shopping,Lake Hilaryville,Bahamas
+12725667-c09d-4199-b551-8f0f51072912,2025-04-02,Octopus Energy Raymondbury,-270.39,GBP,Octopus Energy,Utilities,Raymondbury,Congo
+e03ceaf6-f968-4a16-b8eb-e7680b580577,2025-01-14,Sainsbury's Davidsonburgh,-71.29,GBP,Sainsbury's,Groceries,Davidsonburgh,Fiji
+8517ce99-c611-4095-85b5-5da48bc8c0af,2025-04-24,Just Eat South Georginaville,-168.41,USD,Just Eat,Food,South Georginaville,Australia
+7da20e75-0ded-49cb-a59f-d61d2ee1f626,2025-07-02,Amazon North Frankburgh,-25.94,USD,Amazon,Shopping,North Frankburgh,Ireland
+b3ab1b0d-a568-4395-9f2e-c73a555c9598,2025-05-02,Subway Port Joanne,-24.88,EUR,Subway,Food,Port Joanne,United Kingdom
+fd202f0d-148f-4f09-957f-507de6c471b8,2024-11-27,British Gas Metcalfefurt,-156.68,GBP,British Gas,Utilities,Metcalfefurt,Estonia
+89141da4-6d9d-43ad-b9e0-b118cd90427f,2025-10-11,Booking.com Hussainside,-164.07,USD,Booking.com,Travel,Hussainside,Panama
+a0e547dc-2014-4d51-a1c5-ae6d846c368a,2025-07-26,Bank Fee East Bryan,-144.44,GBP,Bank Fee,Other,East Bryan,Cuba
+0ffd2da2-a9f7-4b82-a5c3-cef21c5ad57c,2025-10-26,NHS Prescription Lake Terryton,-32.83,USD,NHS Prescription,Health,Lake Terryton,Australia
+9d3f9ea4-c47f-4cd5-9ddf-fd6538a4490b,2025-06-07,PureGym North Natasha,-129.96,GBP,PureGym,Health,North Natasha,Belgium
+fd54f08c-cc8b-4114-8a79-33b591a876a1,2025-09-13,McDonald's New Josephbury,-22.88,USD,McDonald's,Food,New Josephbury,Iraq
+25e4fd63-9920-4d93-b8f8-aaf9a81675ae,2024-12-19,British Gas New Marilyn,-78.35,EUR,British Gas,Utilities,New Marilyn,Armenia
+3a7394eb-d8df-4c80-b658-d8b568b10b60,2025-06-20,Freelance Payment Mossshire,46.35,EUR,Freelance Payment,Income,Mossshire,Mali
+69a6e537-267e-423a-82f4-06287078ca0a,2025-03-01,PlayStation Store Dennismouth,-78.69,EUR,PlayStation Store,Entertainment,Dennismouth,Dominican Republic
+134ce475-5c6b-4987-b3de-399a32dfe9d6,2025-02-11,Ryanair Lake Leah,-19.92,USD,Ryanair,Travel,Lake Leah,French Southern Territories
+62622d79-c108-4bb7-8c59-c43ed8a9d6bc,2025-04-22,McDonald's North Clareshire,-278.28,EUR,McDonald's,Food,North Clareshire,Bolivia
+f104fd75-0e05-4430-baf2-124bc81f609b,2024-12-02,BP Petrol New Arthur,-148.26,EUR,BP Petrol,Transport,New Arthur,Bulgaria
+5ada4ebc-963a-4d52-b4e9-cd58d4af5d68,2025-10-13,Boots Pharmacy East Laurenport,-53.57,EUR,Boots Pharmacy,Health,East Laurenport,Cayman Islands
+ba60d063-bac3-43c7-9b3a-c6571f5ae547,2025-04-15,PureGym Mollyhaven,-278.32,GBP,PureGym,Health,Mollyhaven,Algeria
+b2b83e47-922b-4afa-b4df-ed50fbe8be85,2025-07-08,PlayStation Store Cherylville,-210.49,USD,PlayStation Store,Entertainment,Cherylville,Wallis and Futuna
+43617fd3-629a-4e41-8841-d53fa85613e4,2025-09-23,Tax Refund Connorville,216.93,EUR,Tax Refund,Income,Connorville,Samoa
+dff3c9c4-d0d9-4dda-89ad-a4fe0bf87446,2025-05-27,H&M Lawrenceborough,-69.22,EUR,H&M,Shopping,Lawrenceborough,Saint Barthelemy
+94da1ca3-1c24-43ab-99ad-c72e9f3a4801,2025-03-11,Bank Fee Leannefort,-164.95,USD,Bank Fee,Other,Leannefort,El Salvador
+967507bd-ad07-4533-92b6-5dd762be2d4e,2025-10-03,British Gas North Ashleighchester,-19.79,GBP,British Gas,Utilities,North Ashleighchester,Switzerland
+1353e108-ef5c-45fa-b373-24f392c66427,2025-02-15,Tax Refund West Callumview,51.44,USD,Tax Refund,Income,West Callumview,Central African Republic
+6a1f4c93-f8ae-438f-8fd3-714af15c6fa6,2025-08-04,Sainsbury's Mooreville,-25.21,EUR,Sainsbury's,Groceries,Mooreville,Belarus
+9609c550-20e3-43b9-adc5-627805f54e4c,2025-10-17,IKEA New Alan,-40.37,USD,IKEA,Shopping,New Alan,Syrian Arab Republic
+c7c860a3-b265-493e-81bd-d9e113e2282d,2025-03-21,Apple Store South Scott,-180.38,USD,Apple Store,Shopping,South Scott,Armenia
+acfd45a6-db92-4fab-9591-86fc67149bbd,2025-02-26,Aldi West Rhysbury,-198.93,USD,Aldi,Groceries,West Rhysbury,Papua New Guinea
+65698757-ee5d-4528-96a7-29556492a78a,2024-12-13,Freelance Payment Simpsonberg,280.74,EUR,Freelance Payment,Income,Simpsonberg,Uzbekistan
+98361a7e-fd05-4da7-bc9e-5b56bcd15bfb,2025-10-12,Thames Water Port Edward,-83.36,EUR,Thames Water,Utilities,Port Edward,Turkmenistan
+4049cf7a-a55c-407c-9a6e-f43c7ed212c0,2025-04-05,PlayStation Store Lake Brett,-98.27,EUR,PlayStation Store,Entertainment,Lake Brett,Slovenia
+6a3b3d74-8706-41d8-96fb-13528e255272,2025-10-12,Pizza Express West Sam,-188.24,USD,Pizza Express,Food,West Sam,Solomon Islands
+b487418e-249f-46bb-8d5e-cfe8cc199ee7,2025-07-20,Tesco Carrfort,-163.6,USD,Tesco,Groceries,Carrfort,Cyprus
+a93458da-26e6-417c-b5c6-78fc93a746fc,2025-01-18,Spotify Stonebury,-280.31,EUR,Spotify,Entertainment,Stonebury,Czech Republic
+5adc6dcd-5cb9-4cc3-ab1d-e27cd72e764c,2024-11-14,H&M South Hugh,-89.07,GBP,H&M,Shopping,South Hugh,Fiji
+00d0d61a-bee4-4af2-b9e0-1b4fcd255997,2025-09-18,Tax Refund Brucehaven,94.24,USD,Tax Refund,Income,Brucehaven,Iran
+8ee79499-bfda-4697-9925-b71d9c181a4f,2025-07-12,Salary ACME Ltd Matthewville,202.02,USD,Salary ACME Ltd,Income,Matthewville,Turkey
+a50e45b3-145f-4069-b321-9ae87e21e344,2025-10-27,Netflix New Arthur,-281.98,EUR,Netflix,Entertainment,New Arthur,Argentina
+87bfadcc-e156-4b6f-879a-541958b145c8,2024-12-15,Netflix Wardmouth,-267.47,USD,Netflix,Entertainment,Wardmouth,Jordan
+25363ee5-3c01-4e62-a570-6bc336380df8,2025-06-15,Salary ACME Ltd South Melissaborough,85.34,USD,Salary ACME Ltd,Income,South Melissaborough,Equatorial Guinea
+e31d4526-b9a4-4694-87e5-01d8432eb3aa,2024-11-22,H&M Winterside,-65.06,USD,H&M,Shopping,Winterside,Poland
+4503656c-fc57-47bd-abe0-6119b78b87b7,2025-07-27,PlayStation Store West Sharon,-79.08,EUR,PlayStation Store,Entertainment,West Sharon,Bangladesh
+8ea8653a-ae90-4cc3-b395-a58b8bc397d5,2025-10-19,Aldi Saramouth,-249.66,EUR,Aldi,Groceries,Saramouth,Panama
+a09be13e-839f-4fe3-829a-db9524f11582,2025-09-12,Starbucks Kathleenport,-232.48,USD,Starbucks,Food,Kathleenport,Papua New Guinea
+a8dd973c-6e4d-4317-9286-f95f0cff886f,2025-04-04,Spotify Harrisonside,-223.66,USD,Spotify,Entertainment,Harrisonside,Brunei Darussalam
+fcb06ffb-0ba5-43ec-89f4-40eba2288bfb,2025-01-15,Boots Pharmacy Daviesburgh,-38.0,USD,Boots Pharmacy,Health,Daviesburgh,Nicaragua
+c77f1724-faf6-4c4c-8071-5299b110caae,2025-06-02,Transport for London Frenchtown,-15.63,GBP,Transport for London,Transport,Frenchtown,Gabon
+e21cf23e-85cd-4420-9f32-35e076f9ea37,2025-02-19,Bank Fee Thorntonmouth,-48.69,EUR,Bank Fee,Other,Thorntonmouth,Lao People's Democratic Republic
+8cd6e61f-01d7-4a15-83e7-49ada9ce7577,2025-04-16,Starbucks New Elaine,-112.57,EUR,Starbucks,Food,New Elaine,South Africa
+d06df0c0-5ba4-4f4c-8ee1-854be21dc1b7,2025-10-01,Thames Water Lake Graham,-206.21,USD,Thames Water,Utilities,Lake Graham,Finland
+689d14c7-83f1-4fdc-ad3d-713b4764d3f5,2025-05-13,Lidl Colinbury,-235.13,GBP,Lidl,Groceries,Colinbury,Peru
+86b27a4d-a988-495b-b45d-efba908bf1e5,2025-02-27,Bank Fee East Peter,-50.59,EUR,Bank Fee,Other,East Peter,Aruba
+02346032-8d32-419a-9b4b-91e13db83217,2025-02-03,Trainline Talbotland,-265.02,EUR,Trainline,Transport,Talbotland,Korea
+d3350829-966b-487b-bf23-f33a9a281fdb,2025-04-06,Shell Lake Bethan,-235.8,GBP,Shell,Transport,Lake Bethan,Hungary
+fe404763-0648-4fb2-b3fa-9df3ef6ddcae,2025-05-05,H&M East Abbie,-51.96,USD,H&M,Shopping,East Abbie,Portugal
+c57a3a53-909f-46b5-9cd4-e4b462066922,2024-11-08,Aldi Port Dianebury,-262.29,GBP,Aldi,Groceries,Port Dianebury,Christmas Island
+d0f479f7-82af-456d-8500-e5fe79db3dd2,2025-08-27,Zara Parkerbury,-245.89,GBP,Zara,Shopping,Parkerbury,United States Virgin Islands
+d0ac3203-93d5-433a-bd3e-3c03b7a83ebe,2025-09-12,EE Mobile Brownemouth,-247.06,EUR,EE Mobile,Utilities,Brownemouth,Papua New Guinea
+c997d3b8-29e0-49a1-94a5-54aa4e8c40b5,2025-05-19,Amazon Angelahaven,-199.71,GBP,Amazon,Shopping,Angelahaven,Japan
+f2793293-4171-4649-a4e5-7aca5b32363d,2025-09-05,EE Mobile Bartlettfort,-259.98,GBP,EE Mobile,Utilities,Bartlettfort,Korea
+dc447ed7-b93e-4d3b-a017-1bcd43a8aa7a,2025-02-08,Octopus Energy Port Kim,-205.46,USD,Octopus Energy,Utilities,Port Kim,Falkland Islands (Malvinas)
+d9789e0b-215f-4b41-a3ac-a803fd23ba09,2025-08-13,British Gas Johnsonview,-39.03,GBP,British Gas,Utilities,Johnsonview,Kazakhstan
+aa27a0d5-eb22-47e6-ae41-fc40d7617475,2024-12-04,Transport for London Damianview,-288.95,GBP,Transport for London,Transport,Damianview,Grenada
+3f82c7fd-b86b-40dc-84ac-db19533bfce5,2025-03-03,McDonald's East Derekbury,-180.99,GBP,McDonald's,Food,East Derekbury,Hungary
+e5ed65e8-5c8b-4bdc-9c80-3e0a67fac225,2025-07-17,Octopus Energy North Elizabeth,-183.83,USD,Octopus Energy,Utilities,North Elizabeth,Ireland
+64dce0aa-498e-4448-b197-df4ed753fd92,2025-03-07,Aldi Sandersonborough,-270.35,EUR,Aldi,Groceries,Sandersonborough,Syrian Arab Republic
+7b15d028-3bba-446a-98cb-2d4b02b54214,2025-04-08,Netflix Port Beverleyfurt,-214.09,EUR,Netflix,Entertainment,Port Beverleyfurt,Lesotho
+f1fa0508-9fbd-4d5d-bad0-da05b1c94aa8,2024-11-08,Tax Refund Joelfurt,207.62,USD,Tax Refund,Income,Joelfurt,Timor-Leste
+22c94f62-490e-4a99-b615-f18617845c1a,2025-09-28,H&M Powellside,-132.23,USD,H&M,Shopping,Powellside,South Georgia and the South Sandwich Islands
+fc4e9742-670b-46a8-bae8-d12e5a6240f6,2025-06-14,EE Mobile South Gerald,-200.7,EUR,EE Mobile,Utilities,South Gerald,Faroe Islands
+7c559c53-3b67-4f29-955f-936adf53a289,2025-04-14,Cineworld South Tomfurt,-201.73,GBP,Cineworld,Entertainment,South Tomfurt,Saint Kitts and Nevis
+bdfb9edc-fb0c-4141-91bd-64db92f8914a,2025-01-05,PureGym Bellside,-168.55,EUR,PureGym,Health,Bellside,Anguilla
+6f97c79a-c2e7-4d70-8d23-6e580f1244ae,2025-10-03,Vision Express North Carlychester,-204.81,EUR,Vision Express,Health,North Carlychester,Burkina Faso
+c7658657-8ad1-405a-b08f-73d1b4ed93fb,2025-09-19,Bank Fee North Elliot,-93.78,USD,Bank Fee,Other,North Elliot,Hong Kong
+dd7b6cd1-2303-4932-8e71-bbabe120da5f,2025-03-05,Starbucks Millsfurt,-89.64,GBP,Starbucks,Food,Millsfurt,Fiji
+423adf2b-b543-44d7-b3a8-d82ffd737764,2025-08-08,Bank Fee Smithland,-198.14,GBP,Bank Fee,Other,Smithland,Latvia
+deec3a49-6ad8-464c-87a6-755bf97403ae,2024-11-13,EasyJet West Francisland,-204.31,USD,EasyJet,Travel,West Francisland,Slovakia (Slovak Republic)
+985c3d7a-1ca6-445e-a544-6f2f83ee405b,2025-10-22,Booking.com Port Robertbury,-199.36,GBP,Booking.com,Travel,Port Robertbury,Cook Islands
+1e4a078a-62b8-469b-ac43-004ca9c0a51f,2025-09-09,Tax Refund East Malcolm,191.72,GBP,Tax Refund,Income,East Malcolm,Lebanon
+bbeb9be1-bbc5-46d0-9c3a-e79b98faf93b,2025-07-09,Sainsbury's South Beth,-203.47,EUR,Sainsbury's,Groceries,South Beth,Equatorial Guinea
+41834f56-a76f-4004-bf8f-9f310a111b14,2025-08-13,Zara New Lynda,-12.21,EUR,Zara,Shopping,New Lynda,San Marino
+e058ef32-1429-484a-8fda-c1151533c79f,2025-07-26,Ryanair West Raymond,-139.35,USD,Ryanair,Travel,West Raymond,Mozambique
+55cdba70-c216-4fc3-bcb5-73e6a45ab02d,2024-11-15,PayPal Beverleyfurt,-216.91,GBP,PayPal,Other,Beverleyfurt,Indonesia
+b505dc60-9357-485a-95ad-d5bc87afcd1e,2025-10-16,EasyJet North Jenna,-76.98,USD,EasyJet,Travel,North Jenna,Portugal
+0f38a4b6-4c7d-465d-a8d2-c67151bdd45b,2025-09-05,McDonald's North Bethan,-234.63,EUR,McDonald's,Food,North Bethan,Sierra Leone
+76c7a2bc-ebb1-4d3e-9dac-63ff82f093d2,2025-02-24,Transport for London Port Annaton,-142.04,USD,Transport for London,Transport,Port Annaton,Guatemala
+e1a16062-1333-4039-9311-b25a3ff46af2,2025-05-19,Amazon Brianhaven,-139.66,GBP,Amazon,Shopping,Brianhaven,Oman
+b8f6be9c-584e-4dde-a742-f3de89888232,2025-03-10,Tax Refund Fullerville,180.66,GBP,Tax Refund,Income,Fullerville,Jersey
+fa5e8b9a-bb08-4d95-b251-49fed5b18635,2025-10-23,Bank Fee Goddardchester,-268.15,GBP,Bank Fee,Other,Goddardchester,Christmas Island
+7f6b2ed0-afc2-4f63-a1a7-f6d38c7eb60d,2025-08-01,Freelance Payment Amberside,269.68,USD,Freelance Payment,Income,Amberside,Singapore
+22c7f6a0-1ecb-4485-98fe-1fb4a60de360,2025-05-01,EasyJet Masonshire,-81.46,EUR,EasyJet,Travel,Masonshire,Ethiopia
+40661d59-734c-4120-9b39-b70608a85933,2025-03-03,PlayStation Store Port Nicholas,-189.89,GBP,PlayStation Store,Entertainment,Port Nicholas,Fiji
+28653d31-70d7-45f8-93aa-30ff15411447,2025-09-24,Ryanair Port Gillian,-215.5,EUR,Ryanair,Travel,Port Gillian,Montenegro
+23348560-e8d5-44c0-945d-b79374398fd5,2025-06-17,Cineworld Holtfort,-99.31,USD,Cineworld,Entertainment,Holtfort,Thailand
+2f473243-4dab-45a1-9f3b-80e05c9c80b7,2025-03-04,Sainsbury's Kellyview,-49.5,GBP,Sainsbury's,Groceries,Kellyview,Guam
+8ab938be-4fc2-4b39-bae2-a841b275afa0,2025-02-16,Trainline Suzannetown,-23.95,GBP,Trainline,Transport,Suzannetown,Maldives
+231dadaa-2610-4341-b3ec-43043cce8311,2025-10-18,Octopus Energy East Janefort,-127.65,EUR,Octopus Energy,Utilities,East Janefort,Moldova
+8e69ca65-7d73-4961-88d0-592f820d500d,2025-08-10,Vision Express Berryfort,-271.93,USD,Vision Express,Health,Berryfort,Kiribati
+e3343740-c062-4342-af26-3eb2d22ce9d5,2025-08-23,Just Eat West Rossfurt,-117.21,EUR,Just Eat,Food,West Rossfurt,Puerto Rico
+f4608bb5-6271-4cc3-9048-714b23aa5e6c,2025-02-03,EE Mobile Elaineside,-227.28,GBP,EE Mobile,Utilities,Elaineside,Marshall Islands
+98cf4808-778b-4b55-8147-0c90809ed7d1,2025-03-11,Tax Refund Jaymouth,221.72,USD,Tax Refund,Income,Jaymouth,Faroe Islands
+69ef22be-4512-4483-ba88-00a4c689623b,2025-02-26,IKEA North Alex,-69.73,GBP,IKEA,Shopping,North Alex,Germany
+af28edd9-3311-434b-ab03-d5b07b3ae373,2024-12-19,Ryanair East Robin,-119.71,USD,Ryanair,Travel,East Robin,Saint Vincent and the Grenadines
+f201358a-4bff-446d-9954-3ac9bfcea300,2025-05-02,NHS Prescription Oliverborough,-252.95,EUR,NHS Prescription,Health,Oliverborough,French Polynesia
+bf674516-1c20-4607-a7b0-9056fac16aa5,2025-01-28,Bank Fee West Stephen,-12.96,GBP,Bank Fee,Other,West Stephen,Russian Federation
+81dcba1c-5d40-49b6-8345-d6839adc7f76,2025-05-20,Bank Fee Jordanton,-200.58,EUR,Bank Fee,Other,Jordanton,Micronesia
+0a4eb1ba-53c4-47de-9a5c-8a7914d4b7ca,2025-02-20,NHS Prescription Lake Abigail,-260.72,EUR,NHS Prescription,Health,Lake Abigail,Bosnia and Herzegovina
+5844e97c-b2a8-461b-94fe-be7d5cd5e110,2025-09-21,Starbucks Paulinefort,-116.84,EUR,Starbucks,Food,Paulinefort,Kazakhstan
+e41c7bd6-5532-415a-98ba-ebadf6e19dee,2025-03-10,Airbnb West Lesleyville,-104.56,GBP,Airbnb,Travel,West Lesleyville,Swaziland
+834d2a1a-ed22-488d-a1dd-8800a04130df,2024-11-29,PlayStation Store Fordton,-79.42,EUR,PlayStation Store,Entertainment,Fordton,Canada
+6d96cdb3-2984-45c3-bf2f-c3fd9ec0b3ef,2024-12-30,Ryanair Grahambury,-225.96,EUR,Ryanair,Travel,Grahambury,British Indian Ocean Territory (Chagos Archipelago)
+0cdfbf03-97bf-42ca-b161-09bd105b260c,2025-05-29,Thames Water Butlerbury,-196.79,USD,Thames Water,Utilities,Butlerbury,Singapore
+e4e6f395-7ac9-4282-ad48-0a8d5819fc97,2025-05-16,McDonald's Walkerport,-285.14,EUR,McDonald's,Food,Walkerport,Tokelau
+08f9c4dc-a88a-4a14-bf2b-467dc87b2e66,2025-06-09,Just Eat Rogerston,-49.95,EUR,Just Eat,Food,Rogerston,New Zealand
+1dc93cad-e1e7-4ee9-b9c0-a0a5958195ee,2025-10-23,Ryanair Port Gavinborough,-171.37,EUR,Ryanair,Travel,Port Gavinborough,Estonia
+891c53fe-f66b-4e79-9885-af601f27f155,2025-07-05,Airbnb East Kyle,-231.23,EUR,Airbnb,Travel,East Kyle,Micronesia
+5ab2deb8-3df8-4983-a99d-3d4c8f914521,2024-12-03,Bank Fee South Barbarafort,-289.3,USD,Bank Fee,Other,South Barbarafort,French Guiana
+af08f09d-d9ce-49b9-903a-8e880b889a90,2024-11-17,Sainsbury's Dianaport,-289.59,EUR,Sainsbury's,Groceries,Dianaport,Reunion
+56fc8a99-b7bd-4f3e-9f67-5440cf86930b,2025-09-16,PayPal Lake Donaldview,-279.02,USD,PayPal,Other,Lake Donaldview,Solomon Islands
+ea292fba-1e2a-4c14-8bea-7a58b0564390,2025-08-22,Vision Express South Geoffrey,-282.73,EUR,Vision Express,Health,South Geoffrey,Mayotte
+76bf7cd2-28a0-43e5-8acb-cab59cb9c369,2025-01-27,Waitrose West Patrick,-208.73,USD,Waitrose,Groceries,West Patrick,Barbados
+ab1044f6-41e2-4140-86bc-968ce24e1c46,2024-11-27,Amazon Marilynshire,-210.67,GBP,Amazon,Shopping,Marilynshire,Uruguay
+e8102445-0446-44cc-82e6-bcca2409d9cc,2025-02-19,PayPal South Charleneport,-239.89,USD,PayPal,Other,South Charleneport,Reunion
+37b98b40-389c-45bd-a47d-3970cc7b6db4,2025-04-02,Starbucks Donnaside,-162.16,USD,Starbucks,Food,Donnaside,Lithuania
+91ac58a9-7591-4900-b019-0008e86b08a7,2025-04-15,British Gas South Brandonview,-154.26,GBP,British Gas,Utilities,South Brandonview,Anguilla
+98fae6fb-4b96-4f4a-bcef-6d56cdbcb0ff,2024-12-09,Pizza Express Port Ellieview,-247.59,EUR,Pizza Express,Food,Port Ellieview,Morocco
+135bb2d6-9baf-49d1-9b41-b89663d12490,2024-11-20,PureGym South Maureen,-192.5,GBP,PureGym,Health,South Maureen,Pakistan
+1688da82-8eea-4186-98ea-c9cacd1db8f7,2025-04-16,BP Petrol Jeremyshire,-56.96,USD,BP Petrol,Transport,Jeremyshire,Jordan
+986d19d4-9120-4870-8ec8-483e887e1d69,2025-06-26,PlayStation Store Morganfort,-142.14,USD,PlayStation Store,Entertainment,Morganfort,Guernsey
+11273e97-fddd-4a5b-951c-8d33ff86315e,2025-04-04,TransferWise Vanessaville,-100.08,EUR,TransferWise,Other,Vanessaville,Togo
+82d095ed-1b12-4fd9-9d48-f3c38ca514dc,2025-01-03,Lidl Faulknerport,-265.08,EUR,Lidl,Groceries,Faulknerport,Panama
+c8b7894d-76ea-439d-a751-8eaf7381ecc2,2025-10-17,EasyJet South Craigmouth,-104.24,GBP,EasyJet,Travel,South Craigmouth,El Salvador
+01d5b0f5-cf05-4b22-beca-b0d0f590f628,2025-03-04,Thames Water Taylortown,-148.83,GBP,Thames Water,Utilities,Taylortown,Palestinian Territory
+118a679b-c700-45ac-8022-88b9a7af04e4,2025-09-20,Cineworld Aliborough,-87.5,USD,Cineworld,Entertainment,Aliborough,Maldives
+9034ae77-9c93-4a67-8733-0b495d11e8d2,2025-03-18,Netflix Johnsonton,-157.41,EUR,Netflix,Entertainment,Johnsonton,Costa Rica
+17facc6d-9ec2-42ab-bba5-489948427705,2025-02-11,Sainsbury's West Jennifer,-217.42,GBP,Sainsbury's,Groceries,West Jennifer,Turkmenistan
+c7ad13ed-7744-4836-8561-d957574c7a61,2025-07-19,Salary ACME Ltd North Harrietbury,208.73,USD,Salary ACME Ltd,Income,North Harrietbury,Russian Federation
+e2943fa1-a9b6-4cb8-9c54-7b0b2f92a3af,2025-01-02,EasyJet New Janeland,-238.92,EUR,EasyJet,Travel,New Janeland,Czech Republic
+96f34f47-60f1-4cba-87aa-9a7382deaa38,2025-11-04,Spotify South Terenceberg,-124.3,EUR,Spotify,Entertainment,South Terenceberg,Luxembourg
+f7220871-7a97-4718-bbb4-da67733577d0,2025-10-13,Cineworld Natashaview,-144.61,USD,Cineworld,Entertainment,Natashaview,Israel
+f8de0aef-927e-4d20-959c-b2ca9ea7765d,2025-09-07,Octopus Energy Smithside,-299.01,USD,Octopus Energy,Utilities,Smithside,Cameroon
+6fe59350-abd2-4705-8c5d-48939ae0de42,2025-03-26,EE Mobile Port Brian,-212.34,GBP,EE Mobile,Utilities,Port Brian,Falkland Islands (Malvinas)
+c7321c79-b4c6-478a-addb-729df3e91594,2025-08-15,Cineworld Cookhaven,-73.01,USD,Cineworld,Entertainment,Cookhaven,Ethiopia
+86f62ae5-e173-4266-9215-df91d8cda942,2025-09-02,H&M Joelshire,-40.27,USD,H&M,Shopping,Joelshire,Mozambique
+37ea473c-1b1d-43fa-a53c-10f801fc1c9e,2025-11-06,Trainline Taylormouth,-68.83,GBP,Trainline,Transport,Taylormouth,Mauritania
+31af5024-1100-4f14-9baa-e4b5e5c1e653,2025-05-02,Cineworld Lynnside,-294.25,EUR,Cineworld,Entertainment,Lynnside,Honduras
+bedced74-7922-441e-b12a-765d220e3fd7,2025-04-21,Spotify Roybury,-111.46,GBP,Spotify,Entertainment,Roybury,Montserrat
+f7c7c406-f568-4f4f-9903-ea51a3ceba87,2025-03-26,Just Eat Thomasfort,-42.34,EUR,Just Eat,Food,Thomasfort,Romania
+e61b518a-3dbf-471b-a699-1ab5353c2249,2025-10-06,Just Eat Cooperberg,-91.18,EUR,Just Eat,Food,Cooperberg,Lithuania
+4601938f-969e-4ccc-8ebb-89666f6ed20c,2025-10-25,Ryanair New Marie,-262.45,USD,Ryanair,Travel,New Marie,Greenland
+607136d2-882a-434e-9f84-3cbf657107e3,2025-09-20,PlayStation Store Spencermouth,-146.22,GBP,PlayStation Store,Entertainment,Spencermouth,American Samoa
+e1ef32a8-8764-41a1-a171-a1a4d068d95b,2025-07-28,Uber Carrberg,-79.48,GBP,Uber,Transport,Carrberg,Belarus
+fa320d7e-2016-4675-9e14-d65db3c10eba,2025-04-26,Tesco Declanfurt,-123.21,EUR,Tesco,Groceries,Declanfurt,Pakistan
+3dcb90d8-b0d4-4fb6-bc90-793f5f6cd445,2024-12-05,Bank Fee Francesside,-207.5,EUR,Bank Fee,Other,Francesside,Hong Kong
+bff419fe-3a3c-476d-a761-076b7c14d504,2025-10-21,Transport for London Carrton,-284.99,EUR,Transport for London,Transport,Carrton,Niger
+64f8cbbf-43a7-4536-920e-5447ca50d073,2024-12-01,Amazon Julianland,-169.63,GBP,Amazon,Shopping,Julianland,Jordan
+594047c9-b7be-452f-a445-2f070c11e01b,2025-10-30,Bank Fee South Mohammedport,-238.27,EUR,Bank Fee,Other,South Mohammedport,United Kingdom
+51efaf7a-bdcd-436b-95d9-0cc905e0c172,2024-11-16,Freelance Payment Williamport,137.9,GBP,Freelance Payment,Income,Williamport,Guinea-Bissau
+230d4316-13bc-443f-afef-d5cbbc4e6897,2025-03-23,PlayStation Store East Melanie,-95.09,USD,PlayStation Store,Entertainment,East Melanie,Isle of Man
+57d82764-9b88-44d2-a281-30e4b7c66bf5,2025-06-01,Just Eat East Clive,-288.23,EUR,Just Eat,Food,East Clive,Belgium
+2e8bcebe-528f-4eb5-91c4-dbb2e84751e4,2025-06-17,Zara Bibibury,-83.07,EUR,Zara,Shopping,Bibibury,Luxembourg
+4c74a042-ff04-492a-9aa6-b80161464d5c,2025-10-06,Trainline East Bethany,-56.27,EUR,Trainline,Transport,East Bethany,Northern Mariana Islands
+97565c1e-6d49-4f12-8d23-f0deeea7810d,2025-02-06,Uber Dorothytown,-125.51,USD,Uber,Transport,Dorothytown,United Arab Emirates
+8c3ba471-e853-4b51-9e16-1312b7bfdb36,2025-08-27,TransferWise Sianside,-90.92,EUR,TransferWise,Other,Sianside,Cayman Islands
+02652a63-1b0f-410f-8f27-6dea24423fa9,2024-12-03,Cineworld Kateport,-212.38,GBP,Cineworld,Entertainment,Kateport,Northern Mariana Islands
+27b00c0f-ee93-447f-8367-6bfc157ffc15,2025-10-24,Sainsbury's Carolineport,-277.55,USD,Sainsbury's,Groceries,Carolineport,Congo
+71c60e64-0ff6-4d76-9b13-10bc68b81acf,2025-11-06,Bank Fee Deanfurt,-242.15,EUR,Bank Fee,Other,Deanfurt,Montserrat
+fde73b6b-2d2c-437e-bebe-880d64784059,2025-03-17,Boots Pharmacy Bethport,-165.65,USD,Boots Pharmacy,Health,Bethport,Angola
+1b239f4a-b801-4386-ab9b-493646f601f0,2025-10-29,Shell Robertsonshire,-248.86,EUR,Shell,Transport,Robertsonshire,Tonga
+67c14d58-a555-4144-90b5-de70a945bb2d,2025-07-15,Subway New Jeanport,-238.83,USD,Subway,Food,New Jeanport,Singapore
+b3125f1e-f299-4089-aadc-195a6977deee,2025-08-25,TransferWise Geraldborough,-134.55,GBP,TransferWise,Other,Geraldborough,Niger
+6fc8befa-ddb2-42a4-a797-94e43b90cdbb,2025-02-05,PlayStation Store Lake Lewis,-283.09,USD,PlayStation Store,Entertainment,Lake Lewis,United Kingdom
+73241d7e-5228-400d-bcf9-dab096afcb6b,2025-06-23,Freelance Payment West Chloeton,134.14,USD,Freelance Payment,Income,West Chloeton,Mozambique
+403c3ac2-a2d6-43ef-91d0-210baee7218a,2025-03-19,Pizza Express North Bryan,-221.69,USD,Pizza Express,Food,North Bryan,Greece
+52956a18-3721-411f-8abf-62c541748ddd,2025-08-06,Netflix East Wayne,-31.94,USD,Netflix,Entertainment,East Wayne,Solomon Islands
+758cb159-7ef7-4b64-bd16-da8585974cb9,2025-05-22,Bank Fee Melaniehaven,-285.48,USD,Bank Fee,Other,Melaniehaven,United States Minor Outlying Islands
+2cfd25be-8f98-415e-baa5-e9458894b201,2025-02-13,Netflix West Hayley,-230.12,EUR,Netflix,Entertainment,West Hayley,Sri Lanka
+14928c53-714f-46bf-98f3-828856e5c24e,2025-02-22,EasyJet Geoffreymouth,-275.24,EUR,EasyJet,Travel,Geoffreymouth,Belarus
+76018974-8128-433d-8e2f-24be7071f33f,2024-12-27,TransferWise Port Sian,-192.26,GBP,TransferWise,Other,Port Sian,Saint Kitts and Nevis
+4fcc7548-ac99-4b44-85ac-ebfdc3193cc4,2025-07-10,Aldi Morganside,-107.65,GBP,Aldi,Groceries,Morganside,Haiti
+3b9298ff-aaa0-4495-9dc0-bf46cea7010d,2024-12-09,British Gas Brownside,-258.03,GBP,British Gas,Utilities,Brownside,British Virgin Islands
+4a37f5c5-d2bd-400d-9634-7484690b4b5a,2025-04-21,Vision Express Fionafurt,-90.02,GBP,Vision Express,Health,Fionafurt,Swaziland
+47f3c6c5-3160-441c-b440-f2ad2c74ba1b,2025-06-27,Salary ACME Ltd Raymondbury,139.17,GBP,Salary ACME Ltd,Income,Raymondbury,Latvia
+fd71f1e2-2638-4948-8052-60e8e8173c92,2024-11-15,Cineworld Kathrynbury,-39.2,GBP,Cineworld,Entertainment,Kathrynbury,Oman
+0a30bb55-4ba8-49ee-9b2c-53528d6dd7ae,2024-11-29,Salary ACME Ltd Walkerport,199.01,USD,Salary ACME Ltd,Income,Walkerport,Pakistan
+c29f6b7a-6f1a-4370-b9de-ac57e4189c7d,2025-04-04,EasyJet North Ian,-20.99,USD,EasyJet,Travel,North Ian,Gabon
+ef8adbf5-6657-414c-842a-4b482a753940,2025-11-05,Octopus Energy North Damianside,-189.5,EUR,Octopus Energy,Utilities,North Damianside,Burkina Faso
+c898d709-a2d7-42ac-95d0-2f739ad048fb,2025-03-28,H&M Vanessaside,-167.02,GBP,H&M,Shopping,Vanessaside,Italy
+12e693d4-719a-431c-b0b0-02ef734e275c,2025-06-08,EasyJet South Abbie,-40.82,USD,EasyJet,Travel,South Abbie,Bolivia
+942f1b51-9ad0-46c0-a9c0-6a40379b768a,2025-09-07,PayPal Singhview,-214.39,GBP,PayPal,Other,Singhview,Antigua and Barbuda
+31381b02-8971-418f-8e48-fe56c582b431,2025-07-16,Salary ACME Ltd South Louise,167.91,EUR,Salary ACME Ltd,Income,South Louise,Zambia
+242794c0-d728-4038-b032-0b4a627d030d,2025-01-31,Amazon Nigelstad,-141.13,EUR,Amazon,Shopping,Nigelstad,Mayotte
+4235324b-e456-46e3-b9ac-4c47528b22c6,2025-10-02,BP Petrol Benjaminfurt,-280.13,GBP,BP Petrol,Transport,Benjaminfurt,Falkland Islands (Malvinas)
+8902b96f-a4d8-4d7c-9db5-aa4fa6082ae8,2025-01-14,Tax Refund Port Sandraland,85.66,GBP,Tax Refund,Income,Port Sandraland,Panama
+88b6edc4-7813-4227-9b44-ba4ff4e597d6,2025-01-22,Booking.com North Brettbury,-139.75,EUR,Booking.com,Travel,North Brettbury,Brunei Darussalam
+d99cfa1b-9c22-4bc7-ac71-b76025f7911f,2025-08-21,NHS Prescription North Andrea,-276.95,USD,NHS Prescription,Health,North Andrea,Cote d'Ivoire
+9fe36956-e976-45d3-86d4-49a668e104e9,2025-06-08,Uber West Sean,-86.49,GBP,Uber,Transport,West Sean,Solomon Islands
+e467a14b-6f6e-4662-9fef-d0264559ba9e,2025-10-01,EE Mobile West Jacobberg,-247.06,GBP,EE Mobile,Utilities,West Jacobberg,Mauritius
+ae8c6554-4709-4f6c-8a0d-f1ee848231f3,2025-02-05,PlayStation Store North Irene,-260.25,GBP,PlayStation Store,Entertainment,North Irene,Tonga
+604bad6e-34cb-4cf0-bb12-0ce9f622cfff,2024-11-15,Freelance Payment West Frankshire,106.81,USD,Freelance Payment,Income,West Frankshire,Gibraltar
+e7ac0222-ccbc-4890-ab1f-e384988d75a9,2024-11-11,Freelance Payment Leeberg,139.33,GBP,Freelance Payment,Income,Leeberg,Saint Vincent and the Grenadines
+359a4336-8fb0-4bb2-ab58-817fd5439047,2025-04-09,Zara Lake Philipfort,-173.68,EUR,Zara,Shopping,Lake Philipfort,Kiribati
+3700a354-280a-4d41-baba-0fa2fb4296bd,2025-08-17,Boots Pharmacy South Stephaniebury,-98.86,GBP,Boots Pharmacy,Health,South Stephaniebury,Yemen
+f56052ec-d58f-460c-9c14-d39f61ee846e,2025-06-19,Vision Express Claretown,-296.58,USD,Vision Express,Health,Claretown,Bahamas
+d2f42ba5-b15e-4ed6-b7ef-d4eaf718994b,2025-11-06,BP Petrol Pickeringville,-289.62,EUR,BP Petrol,Transport,Pickeringville,Liechtenstein
+78788e97-6077-4879-9f10-75207bafd2c9,2025-07-24,Tax Refund Fordland,102.94,EUR,Tax Refund,Income,Fordland,Gibraltar
+5ef00d8a-b695-4393-a672-a65145ab2e7c,2025-06-16,Ryanair East Henryshire,-160.16,GBP,Ryanair,Travel,East Henryshire,Mexico
+5c177274-d0dd-4626-be15-27362b394fcb,2025-07-24,Subway Turnerhaven,-125.94,USD,Subway,Food,Turnerhaven,French Polynesia
+c877fa14-a9a4-4efa-91ef-5e5c1f63a9b9,2025-04-21,Uber Gibsonville,-143.5,GBP,Uber,Transport,Gibsonville,Timor-Leste
+15b27a0e-6f8c-4f72-add8-b737550f583e,2025-07-03,Octopus Energy South Alison,-196.7,GBP,Octopus Energy,Utilities,South Alison,Tuvalu
+44696135-2c06-42df-9bd8-f36ef8cf9c59,2025-01-28,Freelance Payment Sandrafurt,286.47,USD,Freelance Payment,Income,Sandrafurt,Israel
+175d2bc2-d0d3-47cd-a3aa-3dc52927d3fd,2025-07-31,Ryanair Rachelmouth,-187.15,EUR,Ryanair,Travel,Rachelmouth,Papua New Guinea
+fee82dca-fe40-49f4-bf17-ee95a30feb8b,2025-02-07,Spotify Lake Elaine,-225.3,GBP,Spotify,Entertainment,Lake Elaine,Bangladesh
+5817bdfd-7714-4f1c-a720-7d620f910d85,2024-12-09,Tesco North Annville,-135.89,USD,Tesco,Groceries,North Annville,Samoa
+a469f580-11fa-4a36-b7db-863f4a60d03a,2025-08-03,Netflix New Darren,-18.57,EUR,Netflix,Entertainment,New Darren,Namibia
+06a06311-2504-456b-8073-e38aff6c2538,2025-10-22,Cineworld Vanessaville,-115.58,EUR,Cineworld,Entertainment,Vanessaville,Isle of Man
+4ffdc5ab-08dc-41c1-80e6-73061362050d,2025-03-15,Apple Store Taylorton,-126.56,USD,Apple Store,Shopping,Taylorton,France
+5b3d276f-6013-4566-8061-7dbe2480456a,2025-06-13,Trainline Stuartshire,-56.65,USD,Trainline,Transport,Stuartshire,Madagascar
+ac3dabf6-b094-4984-8a4b-a4dc83b3d26c,2025-01-22,NHS Prescription Wilsonville,-151.81,USD,NHS Prescription,Health,Wilsonville,Guernsey
+916ec8f3-fa34-465f-9545-64cff0a2c9cf,2025-09-11,Trainline Geoffreyview,-141.04,GBP,Trainline,Transport,Geoffreyview,Montserrat
+79dd856e-7f78-4fcc-9dd3-1bb6ffff552a,2025-01-27,Airbnb Bradyside,-201.72,GBP,Airbnb,Travel,Bradyside,Anguilla
+96c2115c-7dd8-43c5-8c30-92e261a12e2d,2025-06-16,Spotify Matthewburgh,-26.79,GBP,Spotify,Entertainment,Matthewburgh,Faroe Islands
+0664e572-1c66-497b-997b-dad85cb3d770,2025-07-21,TransferWise Declanstad,-193.49,GBP,TransferWise,Other,Declanstad,Albania
+e09c6386-2b63-4360-901d-8da8d8c0baf3,2025-01-11,PlayStation Store New Sylvia,-254.36,EUR,PlayStation Store,Entertainment,New Sylvia,Iran
+0ed93b19-02bb-4b1e-b430-7ef06aad6023,2024-12-01,Vision Express North Melanieborough,-36.46,GBP,Vision Express,Health,North Melanieborough,Honduras
+66a033b4-d255-451c-b363-b1738a131b00,2025-04-08,TransferWise Charlesstad,-174.57,USD,TransferWise,Other,Charlesstad,Georgia
+4d221824-b4e3-4b34-8970-1ed32bb4c124,2025-07-28,Netflix North Deanburgh,-293.49,USD,Netflix,Entertainment,North Deanburgh,Saudi Arabia
+77a2866a-71e4-4f03-98a7-b353f57ac3b6,2025-06-20,PureGym West Angelachester,-7.39,USD,PureGym,Health,West Angelachester,Libyan Arab Jamahiriya
+c5d8a616-630b-478a-9aaf-f6bcae9448a0,2025-06-16,Just Eat Robertsonhaven,-224.83,GBP,Just Eat,Food,Robertsonhaven,Brazil
+089a0ae4-7e90-4498-a285-07839ad4d7e6,2025-03-12,Apple Store West Josephineshire,-241.57,EUR,Apple Store,Shopping,West Josephineshire,Libyan Arab Jamahiriya
+a48952ac-999f-42fb-be3a-d7759fd2dc11,2025-05-17,Apple Store Jordanbury,-78.93,USD,Apple Store,Shopping,Jordanbury,Indonesia
+33ed0bf2-9692-4b09-87c5-74e51adb9511,2025-11-01,Uber North Dennisport,-271.5,USD,Uber,Transport,North Dennisport,Yemen
+95d95363-bfb4-4665-8419-0853e5ac273b,2025-01-22,Starbucks Port Conor,-237.64,EUR,Starbucks,Food,Port Conor,French Guiana
+988b23a1-d4d4-46b9-bc6c-bbac7e590bba,2025-03-06,TransferWise South Sharonburgh,-221.05,EUR,TransferWise,Other,South Sharonburgh,Bulgaria
+adf7d05e-b822-4630-87a3-0b622cc1a88f,2025-03-25,Cineworld New Yvonne,-225.51,EUR,Cineworld,Entertainment,New Yvonne,Syrian Arab Republic
+f987daa6-2713-46aa-92c0-5c94e39cc0b2,2025-07-08,Zara Stevenfurt,-237.02,GBP,Zara,Shopping,Stevenfurt,Tokelau
+33911d47-fbde-4ea3-92c5-53b40011111b,2025-08-04,Tax Refund Brownland,274.48,EUR,Tax Refund,Income,Brownland,Tokelau
+c70c388f-daa6-4b7f-a204-2a0900a961f7,2025-02-28,PlayStation Store Allenchester,-290.38,GBP,PlayStation Store,Entertainment,Allenchester,French Guiana
+24c64538-6f77-46ed-8ac6-d369261c2da2,2024-12-18,British Gas West Ronaldmouth,-143.16,EUR,British Gas,Utilities,West Ronaldmouth,Switzerland
+ceb685c5-43c9-457e-b2ff-857e3fd489df,2025-07-16,Trainline Craigchester,-258.74,USD,Trainline,Transport,Craigchester,Tanzania
+60b80afc-882d-460c-a113-d7e5ab874865,2024-12-14,PureGym Foxhaven,-31.64,GBP,PureGym,Health,Foxhaven,Belgium
+5e6a5a8e-090f-496c-bc44-58f148081adf,2025-03-30,Starbucks Declanbury,-163.29,GBP,Starbucks,Food,Declanbury,Grenada
+81c56550-f7cc-4f20-be6c-5c4b0163ca6f,2025-08-18,EE Mobile New Ashleighville,-177.45,USD,EE Mobile,Utilities,New Ashleighville,Marshall Islands
+51176c80-7972-4e68-b571-cd1bee60e2eb,2025-05-11,British Gas Bruceberg,-204.08,GBP,British Gas,Utilities,Bruceberg,Dominica
+8352bfe6-3823-494c-9632-5098c76048d6,2024-12-13,Just Eat Joeburgh,-265.85,USD,Just Eat,Food,Joeburgh,Netherlands
+9f50d143-4b69-49d1-8031-9ada059c99d6,2024-12-31,Thames Water East Teresafort,-196.06,USD,Thames Water,Utilities,East Teresafort,Kyrgyz Republic
+ae6cbf2b-ded0-411a-a963-f00e1a4872a5,2025-08-09,Airbnb Daviesshire,-196.53,EUR,Airbnb,Travel,Daviesshire,Norway
+2b29817b-6fb7-43dd-8734-ecad6eeff90e,2025-06-26,Uber Teresamouth,-284.15,GBP,Uber,Transport,Teresamouth,Canada
+ad24e583-6eb8-4d4b-8a15-6b1822ff7ea4,2025-04-15,Ryanair Williamsport,-33.67,USD,Ryanair,Travel,Williamsport,South Africa
+d95bd63b-5e53-4b2d-b622-b09e9caf8c1c,2025-02-14,BP Petrol West Kathleenland,-138.82,USD,BP Petrol,Transport,West Kathleenland,Georgia
+1b126c06-8e12-4a35-9aa5-1bbff799ff7a,2025-04-23,Freelance Payment North Lauraport,178.27,USD,Freelance Payment,Income,North Lauraport,Belarus
+e84640c0-ded1-4f8d-95f7-8ce68f3b29ff,2025-06-29,BP Petrol New Marilynhaven,-198.2,GBP,BP Petrol,Transport,New Marilynhaven,Hungary
+45750ce7-7429-4a7e-9ed3-2416a7060efc,2025-04-24,TransferWise South Alexandraborough,-282.02,GBP,TransferWise,Other,South Alexandraborough,Gibraltar
+7c787b6f-16ef-4b5b-a418-82987678b0fb,2025-06-15,Starbucks North Barbara,-69.09,GBP,Starbucks,Food,North Barbara,Bosnia and Herzegovina
+eb7280e1-bdc2-42f8-8286-06b0de49dda0,2025-08-29,H&M Grahamhaven,-34.31,USD,H&M,Shopping,Grahamhaven,Oman
+e03d0fb6-0688-4af4-a796-38d063a0c50d,2025-01-08,EE Mobile Lake Jennifer,-22.86,GBP,EE Mobile,Utilities,Lake Jennifer,Kazakhstan
+086ef246-c3b4-4a25-9090-66780bbda960,2025-05-16,Amazon West Christine,-284.96,GBP,Amazon,Shopping,West Christine,United States Virgin Islands
+23b947bd-1e0e-4c4d-897c-1e4aa08925d9,2025-02-17,Sainsbury's Russellton,-194.3,USD,Sainsbury's,Groceries,Russellton,Somalia
+c5bb5318-f014-4b4f-b24d-53881721f90c,2025-06-24,McDonald's Garymouth,-237.1,EUR,McDonald's,Food,Garymouth,Bhutan
+8007d87e-6048-490f-bdd5-8a72dc5627c9,2025-05-29,Transport for London Abbottberg,-65.54,USD,Transport for London,Transport,Abbottberg,Grenada
+0b04724d-bd29-4305-aeb5-95e90360cd3c,2024-12-05,Apple Store West Dylan,-68.71,EUR,Apple Store,Shopping,West Dylan,Palau
+0f63c71c-ddda-414d-aca9-c49b1f617413,2025-07-19,Thames Water Clarkeland,-237.65,USD,Thames Water,Utilities,Clarkeland,Georgia
+ed291774-139d-415f-a034-b09e0bc5bb22,2025-05-29,Starbucks Scotthaven,-258.23,EUR,Starbucks,Food,Scotthaven,Bermuda
+3a0c9c55-bf46-4c32-869d-21a85d054101,2025-06-30,Transport for London Buckleytown,-78.94,EUR,Transport for London,Transport,Buckleytown,Guyana
+4ae84709-e896-40fc-83dd-94f8acb00bf5,2025-02-27,Tesco West Danielle,-43.88,GBP,Tesco,Groceries,West Danielle,Congo
+700cfc36-e58a-499e-bd9f-407218b4ceda,2025-01-27,Apple Store East Martin,-100.51,EUR,Apple Store,Shopping,East Martin,French Polynesia
+940e5c7d-9608-4934-8caf-43daed46362b,2025-09-11,Netflix New Sheilahaven,-42.39,GBP,Netflix,Entertainment,New Sheilahaven,Argentina
+18ce2c0b-3082-4338-bb0e-3338383964d5,2025-07-06,Salary ACME Ltd New Nicola,224.97,GBP,Salary ACME Ltd,Income,New Nicola,Cape Verde
+48c532a9-4d62-477b-9be6-de1ebb710ae5,2025-01-04,Airbnb Lake Jennifer,-156.41,EUR,Airbnb,Travel,Lake Jennifer,Aruba
+afcb7b70-519b-460b-af5d-f05a98ae6ddb,2025-04-05,Booking.com South Kathryn,-283.9,EUR,Booking.com,Travel,South Kathryn,Finland
+4de607f5-c4d0-4208-964d-fbc5d69ac197,2025-08-08,Freelance Payment Barnesbury,140.12,EUR,Freelance Payment,Income,Barnesbury,Georgia
+085a2529-22e4-439e-b931-10fa3b6fc17b,2025-10-25,Pizza Express Cookeborough,-254.95,GBP,Pizza Express,Food,Cookeborough,Heard Island and McDonald Islands
+fd65cf98-9607-422e-9b4c-95663cb923c2,2025-07-12,Aldi Hallport,-215.16,GBP,Aldi,Groceries,Hallport,Slovakia (Slovak Republic)
+a6953160-ebce-4701-805b-4e8f079a0409,2025-03-25,Tesco Morganborough,-100.02,EUR,Tesco,Groceries,Morganborough,Spain
+cb1e036a-20da-4eb8-bbad-e9409a960feb,2025-06-15,Sainsbury's Leefort,-86.13,USD,Sainsbury's,Groceries,Leefort,Tunisia
+4f07c2ff-515d-4cc2-a3f1-3a9ec578d1b1,2025-03-21,Bank Fee Lake Georgiaville,-215.09,GBP,Bank Fee,Other,Lake Georgiaville,Finland
+757a91c3-4385-489b-87a9-60af2feec587,2024-12-06,Bank Fee West Barbara,-91.99,USD,Bank Fee,Other,West Barbara,United Kingdom
+7f8474d1-7be5-46de-83ad-03b52d99da0e,2025-05-12,TransferWise Greenbury,-34.26,USD,TransferWise,Other,Greenbury,Svalbard & Jan Mayen Islands
+eb2a4e42-aa31-4dcf-987e-60f8c0189680,2025-04-20,Waitrose Richardchester,-217.65,EUR,Waitrose,Groceries,Richardchester,Austria
+6b627b76-8c3c-4114-9c25-968fdaccbbf8,2025-03-31,Vision Express Damianfurt,-266.99,GBP,Vision Express,Health,Damianfurt,Belgium
+1868f4fc-63b4-4def-b768-48caa4dd2d1e,2025-03-23,Octopus Energy West Nigelmouth,-122.63,USD,Octopus Energy,Utilities,West Nigelmouth,Somalia
+29484c46-8af3-46c7-b18d-532f30e50772,2024-12-29,Lidl West Meganberg,-130.9,USD,Lidl,Groceries,West Meganberg,Senegal
+2ef541ca-03cc-473c-b8b5-638a9b315488,2025-07-22,Cineworld Richardsland,-286.31,USD,Cineworld,Entertainment,Richardsland,Andorra
+ee291ccf-2c16-4daf-8fb7-d50f58c4f518,2025-02-07,Ryanair New Tina,-31.91,EUR,Ryanair,Travel,New Tina,Marshall Islands
+a9d066be-7ae3-4e2a-9a0e-866d3e6423d0,2025-04-09,Aldi Frankport,-33.49,USD,Aldi,Groceries,Frankport,British Virgin Islands
+38dc36fd-252e-4261-a09f-24e50a5b8015,2024-11-23,Thames Water Dawsonmouth,-169.13,USD,Thames Water,Utilities,Dawsonmouth,Bahrain
+1a2ca55d-ed1e-451b-9bc4-2dfe56daa94e,2024-12-16,Tax Refund Andersontown,102.25,EUR,Tax Refund,Income,Andersontown,Norfolk Island
+c201482f-9775-4eef-9568-012ed6b61f49,2025-05-13,PureGym Lake Gareth,-262.71,GBP,PureGym,Health,Lake Gareth,French Guiana
+80666b98-4731-47a7-8e29-3b6fcb00b6d0,2025-04-12,Starbucks Cameronshire,-182.12,GBP,Starbucks,Food,Cameronshire,Israel
+1b764db9-0210-4f86-b3a5-fce7d0c6fd46,2025-01-13,Waitrose New Rebeccaland,-154.69,EUR,Waitrose,Groceries,New Rebeccaland,Zimbabwe
+3dfd4731-2f71-414a-8f23-23a684496b6e,2025-05-17,Booking.com South Paulineton,-254.95,GBP,Booking.com,Travel,South Paulineton,North Macedonia
+8de6b466-e13a-461e-a9dd-0ae76e929724,2025-03-27,Freelance Payment Howardtown,38.89,GBP,Freelance Payment,Income,Howardtown,Guinea-Bissau
+45e35867-7ebd-4fa3-81a2-4b0034767e23,2025-08-21,PayPal Cameronville,-243.13,USD,PayPal,Other,Cameronville,Sierra Leone
+0c818527-53db-47b9-b720-060882ed40c0,2025-06-06,Bank Fee Aaronton,-204.12,USD,Bank Fee,Other,Aaronton,Guinea
+a79874eb-6bb8-40da-a3af-011bb369786c,2025-05-24,Just Eat Port Lydia,-279.08,USD,Just Eat,Food,Port Lydia,Kyrgyz Republic
+648d8a3f-0645-462b-989d-8c08648b74af,2025-10-30,Netflix Mistryberg,-58.22,USD,Netflix,Entertainment,Mistryberg,Bahrain
+642b80e1-2b1b-484b-99af-dffbb2595648,2025-07-26,Cineworld Simsborough,-108.55,EUR,Cineworld,Entertainment,Simsborough,Aruba
+b151ea43-5450-4e6e-a043-9f2a0975c56f,2025-08-22,Transport for London West Dylanhaven,-198.92,EUR,Transport for London,Transport,West Dylanhaven,Indonesia
+83d7958d-5cfb-43cf-9161-77a3f4d4ec1d,2025-11-03,Uber Smithborough,-32.07,USD,Uber,Transport,Smithborough,France
+df0cfa2c-89bd-4993-bf31-1f85da738397,2025-03-16,IKEA Port Abbiemouth,-128.85,GBP,IKEA,Shopping,Port Abbiemouth,Faroe Islands
+c130ebe5-50e6-4b34-bccb-602fb6569375,2024-12-21,Shell Amandafurt,-96.93,GBP,Shell,Transport,Amandafurt,Samoa
+3014fb43-b10d-4260-a44b-d6df60335d23,2025-04-15,Bank Fee Cookburgh,-30.06,EUR,Bank Fee,Other,Cookburgh,Luxembourg
+f34bb797-7296-427f-85a2-c4f630be9f8e,2025-07-17,Trainline Maureenview,-227.56,EUR,Trainline,Transport,Maureenview,Spain
+dffe6f1b-1119-4143-b205-13707467e851,2024-12-06,Lidl Fergusonburgh,-135.72,GBP,Lidl,Groceries,Fergusonburgh,Mayotte
+323360cb-66c3-456c-b4f3-a43c83bd07c2,2025-02-21,EasyJet North Tobyport,-127.18,EUR,EasyJet,Travel,North Tobyport,Gambia
+57a71ee3-ccf0-4074-9296-a2aa729bb08a,2025-04-18,Salary ACME Ltd Thompsonmouth,106.83,EUR,Salary ACME Ltd,Income,Thompsonmouth,Guernsey
+33e94024-7646-4545-b0f5-e1bf07682dca,2025-04-18,PlayStation Store Jaynechester,-160.45,GBP,PlayStation Store,Entertainment,Jaynechester,Falkland Islands (Malvinas)
+2bc0a181-a516-4692-ab3e-872f66dcf2e0,2025-06-28,Subway North Vanessafurt,-121.6,USD,Subway,Food,North Vanessafurt,Haiti
+708e45e9-1fe8-4db9-97c3-e4869b94cf48,2025-05-12,McDonald's North Gareth,-65.3,EUR,McDonald's,Food,North Gareth,Thailand
+7d8141fc-2a7e-44fc-995a-77112d0d9cd6,2025-06-16,Shell Howellsland,-90.39,EUR,Shell,Transport,Howellsland,Dominica
+c9117a37-afb2-4ca4-a75d-2440e8c217f1,2025-08-17,Pizza Express Lindafurt,-225.37,EUR,Pizza Express,Food,Lindafurt,Zambia
+96ccec7b-3efb-4244-bd23-5165f5eb35ae,2025-06-01,BP Petrol Lake Barbara,-162.11,EUR,BP Petrol,Transport,Lake Barbara,Yemen
+213773bb-9e63-4a4c-a403-c13684640873,2025-03-21,Tax Refund Millershire,250.84,GBP,Tax Refund,Income,Millershire,Burundi
+9b1de8ca-20c1-451c-a028-da0759d6c15f,2025-05-18,Aldi McLeanview,-259.22,EUR,Aldi,Groceries,McLeanview,Egypt
+6fe38c54-f0d8-49f9-bfac-2baa17dcc140,2025-10-23,Boots Pharmacy Lake Christianfort,-140.63,EUR,Boots Pharmacy,Health,Lake Christianfort,Maldives
+0875db28-1c0b-46a4-96ac-2596c71c9f6d,2025-03-27,Octopus Energy West Elliotmouth,-174.15,USD,Octopus Energy,Utilities,West Elliotmouth,Croatia
+025ce337-59c5-448b-bf05-f67e68b5b277,2025-11-05,PureGym Annettefort,-38.98,EUR,PureGym,Health,Annettefort,Cook Islands
+d2b7dda5-1333-4701-bca2-1825614f0a89,2024-12-20,Thames Water South Kylemouth,-241.39,USD,Thames Water,Utilities,South Kylemouth,Benin
+507d92cc-ff6c-49d3-965a-a76af2a36cda,2025-08-29,Airbnb Dorothystad,-31.0,EUR,Airbnb,Travel,Dorothystad,Russian Federation
+e07ba2af-0e0b-4ea0-879b-b909e2164c97,2024-11-29,IKEA Cliffordburgh,-178.72,USD,IKEA,Shopping,Cliffordburgh,Rwanda
+d8f1e534-0f8c-491e-a4d9-4c99337c3776,2025-07-23,Aldi Port Linda,-261.8,USD,Aldi,Groceries,Port Linda,Malawi
+c8cd043b-f802-4011-bc3e-6ebd8c213408,2025-01-27,Thames Water Port Bradley,-103.26,EUR,Thames Water,Utilities,Port Bradley,Dominica
+6d09784e-0a2e-4d94-85ce-f781fcb1b0c1,2025-08-22,Waitrose West Andreashire,-191.8,USD,Waitrose,Groceries,West Andreashire,Heard Island and McDonald Islands
+31602024-18c4-4e4a-b2f4-be21ed42a3e1,2025-04-26,Salary ACME Ltd New Nicholas,272.25,GBP,Salary ACME Ltd,Income,New Nicholas,Bahrain
+7c2e79c4-238f-4fa1-bd6b-fb997aadaec4,2025-02-27,Thames Water Careychester,-74.7,EUR,Thames Water,Utilities,Careychester,Swaziland
+2f6e661b-83ac-4750-aa22-a769aab8a065,2025-06-04,Spotify West Jemma,-56.18,EUR,Spotify,Entertainment,West Jemma,Barbados
+bd9ea3a6-4972-4860-8c0b-dc234f5804d6,2025-04-19,Sainsbury's Scottside,-285.63,USD,Sainsbury's,Groceries,Scottside,Northern Mariana Islands
+2744520e-1f47-4492-af7a-1861104a4862,2025-06-09,EasyJet South Stephanie,-227.56,USD,EasyJet,Travel,South Stephanie,United States Minor Outlying Islands
+40e3add6-b38f-4a90-a2fd-cf45260679a8,2025-09-19,Airbnb New Carlport,-259.95,USD,Airbnb,Travel,New Carlport,Chad
+0d1521cd-10d6-44f9-9b06-ee4763ed3111,2025-01-04,Thames Water West Maureen,-134.73,GBP,Thames Water,Utilities,West Maureen,Ukraine
+33da1e05-a8a3-4bee-ae41-d494704c8009,2025-02-17,Airbnb West Dominicside,-239.92,USD,Airbnb,Travel,West Dominicside,Falkland Islands (Malvinas)
+914c97d1-20f2-4418-ae4f-727b111cf7cc,2024-12-21,Starbucks Jayneside,-154.66,GBP,Starbucks,Food,Jayneside,Bermuda
+04ba3d17-1382-4014-b728-c1a4e4a145d1,2025-05-08,EasyJet New Kimberley,-16.09,GBP,EasyJet,Travel,New Kimberley,Cape Verde
+296232ba-2e71-4d07-bdcd-f0261e8ab9b0,2025-01-07,Netflix Lynneton,-195.18,EUR,Netflix,Entertainment,Lynneton,Sweden
+e87f2c17-dda7-41af-b9cf-572e30c79c68,2025-09-18,Bank Fee North Jemmashire,-154.59,GBP,Bank Fee,Other,North Jemmashire,Estonia
+8e72f12d-9b20-4786-8acf-426c85d4b9d2,2025-07-02,Bank Fee Richardstown,-286.5,USD,Bank Fee,Other,Richardstown,Luxembourg
+3f0a93f6-bacf-4eec-be32-e4879da054ec,2025-09-27,Pizza Express Jemmaport,-273.17,USD,Pizza Express,Food,Jemmaport,Liberia
+47f6ea12-db73-42b0-a3ff-3280e31a488d,2025-02-03,H&M Jordanland,-183.48,USD,H&M,Shopping,Jordanland,Portugal
+852bd92c-93a5-49d0-8cea-677660d2dac2,2024-11-27,Uber Sandersonmouth,-137.9,GBP,Uber,Transport,Sandersonmouth,Costa Rica
+e1ef1683-bc0c-44ef-85ec-fd1d7b14aba2,2025-03-10,Waitrose West Stanley,-195.61,EUR,Waitrose,Groceries,West Stanley,Saint Martin
+a2b41873-ae80-48aa-b334-59f574acf2a0,2025-11-02,IKEA Traceyberg,-297.34,USD,IKEA,Shopping,Traceyberg,Senegal
+1bf2a6f9-e827-43e4-9fed-fc68442e207b,2025-03-21,Tax Refund West Cameronmouth,51.83,GBP,Tax Refund,Income,West Cameronmouth,British Virgin Islands
+d80b70c2-0024-4154-bae9-61972275ae01,2025-02-11,PlayStation Store East Lewis,-125.59,GBP,PlayStation Store,Entertainment,East Lewis,Australia
+ee81217b-6fd3-4e32-bd9e-0d34489f4c22,2025-02-20,PayPal Taylorchester,-237.82,USD,PayPal,Other,Taylorchester,Egypt
+1651ffbb-4f88-463e-9e35-45035617f686,2025-10-24,British Gas Port Toby,-102.26,USD,British Gas,Utilities,Port Toby,Vietnam
+6e137149-64b0-41ed-b3d6-e9835f650b7c,2025-06-05,PureGym Karlburgh,-79.34,USD,PureGym,Health,Karlburgh,Luxembourg
+e5a22084-e197-41a6-8639-026647a714a9,2025-11-05,PayPal Morleyport,-103.34,USD,PayPal,Other,Morleyport,Luxembourg
+d7eeb581-f3b8-4e27-bc75-038ebed253a9,2024-11-14,Shell Lowebury,-96.52,USD,Shell,Transport,Lowebury,Cuba
+ab721736-b98e-4341-9b6a-c28f6c0bd373,2025-06-07,NHS Prescription North Lawrencefort,-180.54,EUR,NHS Prescription,Health,North Lawrencefort,Nepal
+4b7b3a3f-01ab-41c4-8b0a-dff449a68b99,2025-09-24,PlayStation Store Hussaintown,-194.83,GBP,PlayStation Store,Entertainment,Hussaintown,Tanzania
+f6df786d-c6e6-475e-bff5-9660b4f8d183,2024-12-15,Transport for London West Claire,-32.57,USD,Transport for London,Transport,West Claire,Serbia
+58221cdc-fcb6-4f73-949e-a38a88cfd65b,2025-04-02,PureGym South Leeshire,-10.38,GBP,PureGym,Health,South Leeshire,Monaco
+56945e72-ea00-4437-9d2d-72d3ebdc08f1,2025-01-16,Trainline Liamfurt,-105.81,GBP,Trainline,Transport,Liamfurt,Madagascar
+5579bc1e-99bd-4ad7-8ffe-997e138bde7b,2025-04-19,Zara Saraville,-299.99,EUR,Zara,Shopping,Saraville,Brunei Darussalam
+5ea3fddf-3ac2-441a-988a-2240c95087dc,2025-10-28,Lidl Patelmouth,-254.11,EUR,Lidl,Groceries,Patelmouth,Moldova
+abc0921d-01c6-4a13-9fa5-57304a2b93e0,2025-10-15,Tax Refund East Mandy,251.36,USD,Tax Refund,Income,East Mandy,Malawi
+7ae7c3e0-a64c-414f-8724-907e8da015a4,2025-04-01,Starbucks North Ianberg,-263.54,USD,Starbucks,Food,North Ianberg,Rwanda
+1ce29774-cd38-4318-bff4-b76e0244eeb8,2025-03-07,Transport for London Reynoldsberg,-116.13,EUR,Transport for London,Transport,Reynoldsberg,New Caledonia
+d9d14b59-318a-435f-9b68-bfbde8655d5e,2025-09-28,Transport for London West Molly,-243.67,EUR,Transport for London,Transport,West Molly,Ghana
+e77de3b5-80d0-4b0f-99e2-dc8da24944ed,2025-01-04,Ryanair Jennamouth,-126.2,USD,Ryanair,Travel,Jennamouth,Madagascar
+cdefad48-a619-4b97-8459-7785c05524b8,2025-09-05,IKEA Waltersport,-185.13,USD,IKEA,Shopping,Waltersport,Lebanon
+9fdecc81-7a02-4f1f-af83-9a343e0e695f,2025-08-31,Booking.com Mohamedville,-162.53,GBP,Booking.com,Travel,Mohamedville,Israel
+4e7fb60c-a13f-48e5-aa72-e33a19763092,2025-06-07,Booking.com New Elaineview,-113.51,USD,Booking.com,Travel,New Elaineview,Palau
+ffae6b1b-4459-4abd-94e6-3da5d27a6825,2025-08-19,EasyJet Lake Lee,-231.98,GBP,EasyJet,Travel,Lake Lee,Myanmar
+37ce3364-8cf9-496c-bd98-29a900726725,2025-04-30,Tax Refund Kennedybury,128.5,EUR,Tax Refund,Income,Kennedybury,Antigua and Barbuda
+510875e9-41be-4f19-a4f6-13f9fdfd084c,2025-06-03,Apple Store East Jackmouth,-45.83,GBP,Apple Store,Shopping,East Jackmouth,Germany
+941f7b59-0fbd-432e-b403-c71caa78dbf3,2025-04-08,Pizza Express Marshallchester,-262.86,USD,Pizza Express,Food,Marshallchester,Macao
+20dbd019-96b3-4e7e-867d-71a8907b62c1,2025-08-16,Waitrose Wongton,-256.09,GBP,Waitrose,Groceries,Wongton,Romania
+da1085a7-b347-4d6d-bd6a-4fbf95977cd5,2024-12-26,Sainsbury's New Victor,-85.47,USD,Sainsbury's,Groceries,New Victor,Panama
+c08003ce-c833-4a9c-8d69-3a6de2567f8d,2025-04-30,BP Petrol Sinclairburgh,-32.06,EUR,BP Petrol,Transport,Sinclairburgh,Kuwait
+fbed8b0b-861d-482e-a222-9f5de3db73eb,2025-10-05,Airbnb Janicestad,-279.49,GBP,Airbnb,Travel,Janicestad,Philippines
+65842e85-46c9-4419-bf56-29880ce5ca70,2025-08-15,Pizza Express Kathrynfort,-153.09,EUR,Pizza Express,Food,Kathrynfort,Congo
+bb1bfa3d-8cc8-4491-8ff2-afcf3694931a,2025-10-22,Boots Pharmacy Nicoleport,-115.6,EUR,Boots Pharmacy,Health,Nicoleport,Czech Republic
+496a6a10-0b15-44a5-a671-b59357dcf51b,2025-10-16,British Gas Gerardborough,-252.56,USD,British Gas,Utilities,Gerardborough,Portugal
+83a9b939-c034-46ce-8ec6-63cd9577c216,2025-07-22,Thames Water Catherinestad,-45.59,GBP,Thames Water,Utilities,Catherinestad,Monaco
+5b10c713-a7e2-42a0-873f-dc60959e50b8,2025-10-13,Booking.com Gerardville,-228.86,GBP,Booking.com,Travel,Gerardville,Montserrat
+79524a0a-a92d-4fcb-8297-e05489c6df53,2025-07-11,Ryanair Wheelerfurt,-272.23,EUR,Ryanair,Travel,Wheelerfurt,Svalbard & Jan Mayen Islands
+2002d8c4-b844-42dd-83f2-c1e3dc0df786,2025-03-12,Spotify West Luke,-251.31,USD,Spotify,Entertainment,West Luke,France
+bec14c1b-7927-40ea-9440-3d65d9bbbb10,2025-10-21,Bank Fee West Angelaview,-129.86,GBP,Bank Fee,Other,West Angelaview,San Marino
+85be1bc0-027b-4792-8535-c515ba6f8588,2025-04-30,H&M Port Shannon,-40.95,EUR,H&M,Shopping,Port Shannon,Faroe Islands
+299e003d-f603-437c-a935-71d56f269485,2025-10-13,Vision Express Ashleyville,-23.53,GBP,Vision Express,Health,Ashleyville,Nicaragua
+1b06010a-1b9c-45a9-b948-a02c20ca7a8f,2025-08-04,Bank Fee East Adam,-9.85,USD,Bank Fee,Other,East Adam,Paraguay
+995c19cb-9954-4c27-a71a-bcec41107490,2025-10-03,PayPal Lake Donald,-216.97,GBP,PayPal,Other,Lake Donald,Austria
+2cf7c4f0-c213-44ba-8718-1caf0c3fd248,2024-12-12,Boots Pharmacy Meganville,-186.37,EUR,Boots Pharmacy,Health,Meganville,Pitcairn Islands
+8f2c4a22-45b2-4ea2-a25a-a32181b1a14e,2025-08-15,TransferWise New Charleschester,-60.26,USD,TransferWise,Other,New Charleschester,Palau
+daac059a-92ba-4490-ba40-d283156572f0,2025-10-14,Waitrose Jonesborough,-292.52,EUR,Waitrose,Groceries,Jonesborough,Saudi Arabia
+2de3ce4f-fd1a-4bff-839d-b8ab2145d9d5,2025-10-24,Tax Refund Mitchellton,154.66,USD,Tax Refund,Income,Mitchellton,United States of America
+e6f13dca-f182-42d7-b54f-f359397ab18e,2025-08-14,Salary ACME Ltd New Ian,120.18,GBP,Salary ACME Ltd,Income,New Ian,United States Minor Outlying Islands
+55ff2983-44db-45e4-b1ad-c1709661baa5,2025-10-09,Pizza Express Youngburgh,-294.41,GBP,Pizza Express,Food,Youngburgh,Vietnam
+37d7c765-4288-4413-9080-6b0015bc641a,2025-10-08,Starbucks Greenwoodburgh,-237.61,GBP,Starbucks,Food,Greenwoodburgh,Vietnam
+b295c14c-73c9-4322-ab48-ecf990d88288,2025-08-07,Amazon Iantown,-232.59,USD,Amazon,Shopping,Iantown,French Southern Territories
+dede2b18-b773-4f3c-9f81-aa4078b2f01e,2025-06-01,Thames Water West Glenmouth,-18.08,USD,Thames Water,Utilities,West Glenmouth,Norway
+901f845e-8849-4961-94a1-f9e806f16ccc,2025-05-23,Thames Water Gregoryberg,-249.96,USD,Thames Water,Utilities,Gregoryberg,Thailand
+762e2fbf-32f8-4470-8c76-8d8f443b1d1e,2025-05-09,EasyJet Alexville,-191.36,EUR,EasyJet,Travel,Alexville,Greenland
+59e3c9ea-ae33-41cf-87e2-5b49e9440092,2025-01-04,Aldi Brooksburgh,-15.91,EUR,Aldi,Groceries,Brooksburgh,American Samoa
+94ebd543-db27-4ce4-af85-5bd8d7a0abb6,2025-08-02,Subway Kirstyborough,-266.31,GBP,Subway,Food,Kirstyborough,China
+bc8e1cdb-dc8c-435c-a791-c079d1a9429b,2025-06-17,PlayStation Store Masonhaven,-296.79,USD,PlayStation Store,Entertainment,Masonhaven,Greece
+d37bb84c-4dec-41f3-bdf8-659b767be687,2024-12-07,Airbnb East Bradleyfort,-15.8,USD,Airbnb,Travel,East Bradleyfort,Gibraltar
+326f0cb5-a38b-492b-9770-042fbe46f7d4,2025-10-14,H&M West Jacquelinebury,-110.31,EUR,H&M,Shopping,West Jacquelinebury,Kiribati
+134a3e5a-ba15-48b4-ba3c-29dacb64388e,2025-08-08,EE Mobile Joshshire,-41.72,GBP,EE Mobile,Utilities,Joshshire,Saint Kitts and Nevis
+fd4ba3c4-4244-44e9-beb4-c62861924284,2025-06-03,Vision Express Hilarystad,-224.28,GBP,Vision Express,Health,Hilarystad,Puerto Rico
+f5132b48-acad-4afb-a003-977b6db8c1b5,2025-01-31,Thames Water South Mohammadburgh,-151.38,GBP,Thames Water,Utilities,South Mohammadburgh,Iraq
+6f604c32-e25d-493a-aef2-360cfca2e4a9,2025-07-15,EE Mobile Hollieville,-241.34,USD,EE Mobile,Utilities,Hollieville,Northern Mariana Islands
+cd20e4da-ed44-4c20-a781-b2199b7f3ad8,2025-10-07,Boots Pharmacy Laurabury,-132.03,EUR,Boots Pharmacy,Health,Laurabury,Cyprus
+06187352-05a9-4ce6-b9aa-ef2e9829fcf1,2025-10-22,Freelance Payment Gouldstad,99.76,EUR,Freelance Payment,Income,Gouldstad,Israel
+2ad94c60-44e0-44aa-9e90-e22fe6507d40,2025-07-20,EE Mobile Reedborough,-95.42,USD,EE Mobile,Utilities,Reedborough,Serbia
+15d308e1-ce2b-46a4-81d0-d1b95d0a1e43,2025-02-04,NHS Prescription New Katiehaven,-208.48,GBP,NHS Prescription,Health,New Katiehaven,Romania
+4aea45d6-6558-4642-b3b2-ac71c7ded63f,2025-03-18,Ryanair North Lorrainehaven,-219.41,GBP,Ryanair,Travel,North Lorrainehaven,Cook Islands
+a4bc6193-4efd-4435-8f01-20a4a233f6cf,2025-06-03,TransferWise East Toby,-85.99,EUR,TransferWise,Other,East Toby,Timor-Leste
+ad8d5938-f92d-4a0b-90d0-4ff83d712205,2025-05-15,Aldi Lake Russellshire,-112.18,USD,Aldi,Groceries,Lake Russellshire,Liechtenstein
+1ac95bb6-9810-4d21-a019-3fb1a0726b67,2024-12-09,Uber Lawmouth,-47.12,USD,Uber,Transport,Lawmouth,Bulgaria
+c196224e-944c-4839-bbc0-8c05c8d9221a,2025-05-12,Ryanair Mooreside,-42.24,EUR,Ryanair,Travel,Mooreside,Kyrgyz Republic
+ef261543-c26a-45a7-a3ba-dae76dde2429,2025-07-10,EE Mobile Danielfurt,-117.94,USD,EE Mobile,Utilities,Danielfurt,Equatorial Guinea
+9591ef3f-d6a1-4610-bace-43f239a58719,2025-08-31,Just Eat New Liam,-50.26,GBP,Just Eat,Food,New Liam,Aruba
+e3cef022-584b-4897-8d4b-df6fa4c3b54e,2025-04-10,EE Mobile New Darrenland,-135.96,EUR,EE Mobile,Utilities,New Darrenland,Vietnam
+0dff6154-c043-4a76-80e6-fc5646aab338,2025-04-27,PayPal Michelleburgh,-161.19,GBP,PayPal,Other,Michelleburgh,Seychelles
+a6353b8d-75df-4a3d-a9c2-4197841cad22,2024-12-25,EE Mobile Patelfurt,-78.64,EUR,EE Mobile,Utilities,Patelfurt,Kiribati
+86baf009-7b54-4be6-88c7-9299a7254c92,2025-09-20,Subway Patelside,-152.22,GBP,Subway,Food,Patelside,Burkina Faso
+bacf8122-f4ff-443d-b4bb-0940f81a0d28,2025-07-03,Salary ACME Ltd Terenceburgh,82.22,GBP,Salary ACME Ltd,Income,Terenceburgh,Mauritania
+da3237ba-977b-4068-bf36-6ba555f7c011,2025-03-29,Booking.com Lake Francis,-298.93,GBP,Booking.com,Travel,Lake Francis,Syrian Arab Republic
+894e715d-5b07-4c2f-ac2b-163984e45443,2024-11-07,Booking.com West Gillianside,-41.18,EUR,Booking.com,Travel,West Gillianside,Jamaica
+3737703e-5b2b-4fba-bc06-a8c5234d054d,2025-05-19,Booking.com East Kelly,-270.11,GBP,Booking.com,Travel,East Kelly,Guatemala
+7b93c418-d0d8-4999-995a-82a87660b4a8,2025-01-01,Lidl Lake Nathan,-202.01,USD,Lidl,Groceries,Lake Nathan,Antigua and Barbuda
+9b7b23e9-bef4-46c5-a148-8e0d62acb7fa,2025-08-29,Waitrose Richardstown,-164.94,GBP,Waitrose,Groceries,Richardstown,Dominican Republic
+f25d2924-7c22-457c-9277-c8d239f1e3fb,2025-01-20,Trainline New Joshuamouth,-239.14,USD,Trainline,Transport,New Joshuamouth,Netherlands Antilles
+09ea2100-d875-4ba7-bc5c-208849d3a311,2025-07-09,Amazon East Samuelfurt,-295.61,EUR,Amazon,Shopping,East Samuelfurt,Kazakhstan
+f877815c-b35c-424b-8a8b-ec0d82674e5c,2025-01-30,IKEA Port William,-12.75,USD,IKEA,Shopping,Port William,Burundi
+8761f79c-017b-49b8-a1f8-7285fcbb2bec,2025-05-09,TransferWise Donaldshire,-142.88,USD,TransferWise,Other,Donaldshire,Ghana
+c7ebd182-847c-47f5-8a77-d06cd3707bba,2025-06-05,Transport for London Frankport,-265.85,EUR,Transport for London,Transport,Frankport,Turkey
+deb9a165-d2b9-42ec-87ec-e6b6a537c7ba,2024-12-28,PlayStation Store South Clifford,-299.88,USD,PlayStation Store,Entertainment,South Clifford,Falkland Islands (Malvinas)
+c0a39a89-b216-4b85-b84c-4208520d2671,2024-11-28,EasyJet Lake Josephine,-231.9,USD,EasyJet,Travel,Lake Josephine,Japan
+840dcc45-a759-470c-aeb7-3954f41258c2,2025-05-28,Sainsbury's West Carlyfurt,-291.85,USD,Sainsbury's,Groceries,West Carlyfurt,Solomon Islands
+b220731c-31fc-49ed-9193-bbd4ea8c576e,2025-05-16,Aldi Milesport,-142.42,USD,Aldi,Groceries,Milesport,Honduras
+fb37d279-bdd3-4d5d-9eea-0598edee47b9,2025-01-12,Thames Water Smithbury,-264.0,USD,Thames Water,Utilities,Smithbury,French Southern Territories
+077b45b1-e5f6-4aef-a976-cc5b6bc71590,2025-09-15,PayPal Port Gillian,-231.5,EUR,PayPal,Other,Port Gillian,United States Virgin Islands
+a38df335-0ad6-4154-b026-1c0285be6e22,2024-11-27,Boots Pharmacy Morganside,-250.26,USD,Boots Pharmacy,Health,Morganside,Marshall Islands
+ff8f8174-f0e5-4bde-bb37-fc1c955cb8e7,2024-12-25,Shell West Dennis,-53.57,GBP,Shell,Transport,West Dennis,Greenland
+ef3e46ed-293a-491a-b09a-00a77a541760,2025-06-30,H&M Bakerland,-284.51,USD,H&M,Shopping,Bakerland,Mauritania
+5d3a21f7-b279-4943-95c8-3868250e270f,2025-07-29,Netflix North Max,-78.93,USD,Netflix,Entertainment,North Max,Honduras
+f49743b2-4190-46dc-9275-d529f20af1a6,2025-07-10,Freelance Payment Port Liamborough,41.93,GBP,Freelance Payment,Income,Port Liamborough,Spain
+7010f1a8-9d82-45b0-a2a4-5435f9c4f62f,2025-08-11,Bank Fee South Gavin,-32.56,USD,Bank Fee,Other,South Gavin,Trinidad and Tobago
+ac85db38-7ef5-4fd0-ba4a-2d8a8821ce49,2025-10-03,Transport for London Stephenborough,-282.77,EUR,Transport for London,Transport,Stephenborough,Vietnam
+8201691f-bda7-4fc9-be8d-3a78ac6c1958,2025-01-14,Transport for London Lake Catherinebury,-217.59,USD,Transport for London,Transport,Lake Catherinebury,Qatar
+c50cf3de-5192-4fac-b3b1-00def70ad3de,2025-06-15,British Gas South Shane,-248.44,EUR,British Gas,Utilities,South Shane,Micronesia
+e3d9c86e-cf69-47e1-856e-eebaf7484b5f,2025-03-03,Tesco Jessicamouth,-284.82,USD,Tesco,Groceries,Jessicamouth,Martinique
+b4c40396-6e76-4be7-be32-724a84e08909,2025-07-01,Spotify Elliotstad,-231.25,GBP,Spotify,Entertainment,Elliotstad,Malaysia
+ab8aad1f-d6cd-4d63-acad-fcca88dbd322,2025-09-25,Bank Fee Gibsonfort,-13.93,USD,Bank Fee,Other,Gibsonfort,Senegal
+1f62a5aa-e925-404f-bd8d-a6bdad0c1ce8,2025-09-09,Freelance Payment West Terry,194.36,GBP,Freelance Payment,Income,West Terry,Isle of Man
+39e629ca-0b9d-4351-9b56-b4a982a2bcf6,2024-11-22,Booking.com Lake Jacob,-242.38,USD,Booking.com,Travel,Lake Jacob,Andorra
+9e1a79fa-32ca-4ba1-baba-89267b245939,2025-02-09,PureGym Harrisborough,-138.8,USD,PureGym,Health,Harrisborough,Greenland
+a5901a03-6390-4dcd-b585-ace7d0098f71,2025-01-29,Subway South Georgina,-134.68,GBP,Subway,Food,South Georgina,Palau
+4024137b-ddd5-4c23-aad4-b6e96a96e62f,2025-10-17,Booking.com Douglasfort,-105.36,EUR,Booking.com,Travel,Douglasfort,Saint Kitts and Nevis
+abab3df3-3785-4996-9645-7eb7f132496a,2025-06-28,EE Mobile Hallstad,-221.59,GBP,EE Mobile,Utilities,Hallstad,Chile
+f2613a28-e0ba-4749-9bc9-7886900e081f,2024-12-27,NHS Prescription Gallagherside,-229.4,USD,NHS Prescription,Health,Gallagherside,Norway
+1faed1ac-d753-47c2-b8ff-00986c9ed898,2025-10-22,Salary ACME Ltd Port Keithton,99.14,GBP,Salary ACME Ltd,Income,Port Keithton,Serbia
+af18c09e-b75d-4e43-a088-65661883a982,2024-11-08,Lidl Port Harriet,-137.63,EUR,Lidl,Groceries,Port Harriet,Djibouti
+12768859-74ab-4d89-b9f5-e052baf00bd6,2024-11-30,Tesco North Charlie,-90.61,GBP,Tesco,Groceries,North Charlie,Madagascar
+12dd60a6-9953-4118-b024-622ca703e441,2025-04-21,TransferWise New Kimfort,-78.24,EUR,TransferWise,Other,New Kimfort,Palestinian Territory
+bb3a620c-55cf-48b3-90a9-aea392518c26,2025-05-03,EE Mobile New Lynnchester,-61.0,EUR,EE Mobile,Utilities,New Lynnchester,American Samoa
+9e024963-cec6-4d9d-987e-686381b33d27,2024-11-12,EasyJet Paulaport,-152.13,GBP,EasyJet,Travel,Paulaport,Andorra
+56ed823a-7a15-41b1-8920-8c9ed5736d4a,2025-05-08,Ryanair Forsterburgh,-31.56,GBP,Ryanair,Travel,Forsterburgh,Botswana
+5f4bbf59-f164-4d28-8d4b-3a4b86f03104,2025-10-08,Freelance Payment East Alex,290.17,EUR,Freelance Payment,Income,East Alex,Niger
+8516d435-5cb8-4026-b295-f3223920c25b,2025-05-17,TransferWise Vincentfurt,-19.35,GBP,TransferWise,Other,Vincentfurt,Belgium
+886222de-7b2e-4d11-9fc3-1f8742228167,2025-03-22,EasyJet Nichollsbury,-89.3,EUR,EasyJet,Travel,Nichollsbury,Qatar
+d96269ef-0834-4f94-a176-bfeba2454438,2025-01-27,Aldi Lake Francescaton,-44.51,GBP,Aldi,Groceries,Lake Francescaton,Bermuda
+a08a6b06-9d11-47b1-a52a-cdfcdc9c1ffb,2025-04-03,Octopus Energy Fisherton,-112.95,GBP,Octopus Energy,Utilities,Fisherton,Northern Mariana Islands
+3715482c-3d55-43db-b610-f848f9c2acb6,2024-11-09,Just Eat North Dawn,-170.74,GBP,Just Eat,Food,North Dawn,Tanzania
+e6058c16-7e93-407c-8281-f9d94e92f587,2025-04-13,Freelance Payment Annaville,26.69,USD,Freelance Payment,Income,Annaville,Ukraine
+a5662e59-3e57-4c40-bcc4-c37e6758a3fb,2025-05-18,Airbnb East Phillipshire,-248.47,USD,Airbnb,Travel,East Phillipshire,Lebanon
+57ca28f9-f167-4d1a-93ef-dbdc6f078b22,2025-02-13,PayPal Lake Leonardside,-42.96,EUR,PayPal,Other,Lake Leonardside,Mongolia
+f2a6331d-7d5c-4896-acac-ea499e95f584,2025-07-04,PureGym Port Guy,-239.49,GBP,PureGym,Health,Port Guy,Andorra
+4747325c-7577-44dc-b959-05c47691fc82,2025-10-23,Freelance Payment Port Patricia,227.71,EUR,Freelance Payment,Income,Port Patricia,Vanuatu
+490e6df0-2475-4258-a1c9-186a22a4c958,2024-12-04,Bank Fee New Cameron,-123.41,EUR,Bank Fee,Other,New Cameron,Montenegro
+3f9f8556-f06e-4f68-82de-7748975ac65d,2025-09-07,McDonald's Daviesside,-45.43,GBP,McDonald's,Food,Daviesside,Greenland
+eadf5af5-c47c-460f-8e95-85e3b7d62f18,2025-03-26,EasyJet Port Charlene,-48.94,USD,EasyJet,Travel,Port Charlene,Saint Kitts and Nevis
+c0f10892-baff-47e1-b81f-0cb6dfac5007,2024-12-04,Shell Alexanderville,-279.75,GBP,Shell,Transport,Alexanderville,Jordan
+e544a8da-d763-4b65-b79d-3dc5159814b0,2025-01-29,BP Petrol West Rachaelfurt,-297.23,USD,BP Petrol,Transport,West Rachaelfurt,Singapore
+23f5ce0f-d08b-48c9-ac06-4cf65e23873c,2025-03-05,Cineworld Barbarafort,-154.66,USD,Cineworld,Entertainment,Barbarafort,Denmark
+c3e81de2-15e0-40b0-94a5-90bec66984da,2025-03-16,Freelance Payment Williamsshire,214.08,GBP,Freelance Payment,Income,Williamsshire,Panama
+d60626cb-1b4c-40f1-b7fa-ae5ff39bbeb4,2025-03-25,Ryanair Louisland,-113.67,USD,Ryanair,Travel,Louisland,Belize
+e8cf08fb-7831-44ff-a284-507c39da8ac0,2025-02-12,Aldi Ellisberg,-177.19,USD,Aldi,Groceries,Ellisberg,Saint Vincent and the Grenadines
+563558fb-2f5c-41b4-9aa9-35ddd8078adb,2025-03-28,Just Eat Kennethland,-145.0,USD,Just Eat,Food,Kennethland,Albania
+94642136-5aac-4964-9ead-c97b142ecb65,2025-10-17,Bank Fee Evansview,-72.13,EUR,Bank Fee,Other,Evansview,Bosnia and Herzegovina
+6e2f96d9-ba92-48a4-93f8-ba083811915c,2024-12-24,TransferWise South Lucy,-55.3,USD,TransferWise,Other,South Lucy,Moldova
+f088de9c-38ea-463f-ae5f-565c81b20cf6,2025-05-28,TransferWise Webbland,-48.59,USD,TransferWise,Other,Webbland,Guinea
+9ab8de54-bda5-44ab-b141-fe38b5cd4af8,2025-05-27,Amazon Emmatown,-173.91,USD,Amazon,Shopping,Emmatown,French Guiana
+2e3664a1-4e50-4101-8fed-9df9f42590d7,2025-04-06,Sainsbury's Lake Yvonnebury,-10.59,GBP,Sainsbury's,Groceries,Lake Yvonnebury,Montserrat
+a08bb5a4-1d3c-48e1-b348-0ca1748d4fb1,2025-05-15,NHS Prescription Thompsonview,-126.82,EUR,NHS Prescription,Health,Thompsonview,Gabon
+8396947e-3eb9-4a7a-8997-fabee0e0d738,2025-02-12,Vision Express North Mohammed,-262.48,USD,Vision Express,Health,North Mohammed,Jordan
+b297ad1c-868c-451d-9e82-d786f297b350,2025-02-15,Subway Pamelaland,-158.01,USD,Subway,Food,Pamelaland,Guyana
+0f4ad718-0105-4b69-9fe3-f0ac50efa37d,2025-02-06,Octopus Energy Lake Kayleigh,-160.02,GBP,Octopus Energy,Utilities,Lake Kayleigh,Lithuania
+b0887fc7-c74f-4b8c-ac99-4ffb5ec83fba,2025-06-11,BP Petrol South Kenneth,-274.08,GBP,BP Petrol,Transport,South Kenneth,Burkina Faso
+7a364601-4ac3-4431-8594-085c3b1a6d80,2025-02-25,Freelance Payment Rossfurt,204.38,USD,Freelance Payment,Income,Rossfurt,Spain
+824a78cd-bd93-40d2-8c9e-ce1de14f3e0f,2025-09-17,PlayStation Store Shepherdberg,-61.72,EUR,PlayStation Store,Entertainment,Shepherdberg,French Southern Territories
+b5e3ff57-1fb7-4615-9f05-3925debbf8db,2025-03-03,Cineworld South Terry,-71.34,GBP,Cineworld,Entertainment,South Terry,Christmas Island
+54b1c12e-1277-43a5-8666-ba7504220119,2025-10-25,Spotify Iainfort,-208.62,GBP,Spotify,Entertainment,Iainfort,Morocco
+8c342cd9-f7cd-4beb-b36d-dabcee03bc73,2025-08-19,Octopus Energy Nicolaview,-107.9,USD,Octopus Energy,Utilities,Nicolaview,Svalbard & Jan Mayen Islands
+9ed92d04-5d8c-454e-b02b-55d8d6a892ff,2025-08-20,Cineworld Geoffreyshire,-40.95,USD,Cineworld,Entertainment,Geoffreyshire,Cook Islands
+8e886c0e-c845-4058-b4b8-a168b7061bf6,2025-06-10,Freelance Payment Lake Georgina,269.25,GBP,Freelance Payment,Income,Lake Georgina,Anguilla
+8e34c85f-a25b-4842-bab8-9916ad09e630,2025-10-20,Thames Water Hewittborough,-90.68,GBP,Thames Water,Utilities,Hewittborough,Kazakhstan
+a5055b3d-3eae-48b7-beeb-ec4fb223bf83,2025-08-24,Lidl Port Michellefort,-277.58,USD,Lidl,Groceries,Port Michellefort,Burundi
+5400a7e7-05c5-43d3-94fa-7ad2d31beba6,2025-06-25,PlayStation Store West Katy,-68.13,USD,PlayStation Store,Entertainment,West Katy,Cape Verde
+c04579d8-9703-4a53-b444-5f1434e4e9fd,2025-07-25,Cineworld Fordfort,-45.5,USD,Cineworld,Entertainment,Fordfort,Myanmar
+caa484ee-7675-4702-9081-5fd22af3cc77,2025-04-01,PayPal Dunnstad,-76.53,USD,PayPal,Other,Dunnstad,Reunion
+8757fd41-1c4c-4630-8c3c-42d61bd016c9,2025-09-29,Salary ACME Ltd North Frederickstad,193.19,EUR,Salary ACME Ltd,Income,North Frederickstad,Chad
+81be025f-e8ab-48f6-bff8-d33bc6a0d570,2025-06-30,Aldi New Leahfurt,-102.44,GBP,Aldi,Groceries,New Leahfurt,Sao Tome and Principe
+1887b4be-027b-4421-b47f-ca8b4329853a,2025-03-07,Sainsbury's Whitehouseville,-6.53,USD,Sainsbury's,Groceries,Whitehouseville,Eritrea
+ff624a64-cfb0-4164-a66e-8d8737c06b61,2025-01-26,BP Petrol South Karen,-197.6,GBP,BP Petrol,Transport,South Karen,India
+a8075cc3-c436-48fb-a257-ac189f831495,2025-04-24,Booking.com West Peter,-227.99,GBP,Booking.com,Travel,West Peter,Liberia
+11f316cb-6421-45be-8032-023b81602d0e,2024-12-14,EE Mobile Wallland,-195.54,EUR,EE Mobile,Utilities,Wallland,Brazil
+f71c3e7d-ec7d-4830-b01d-6f36db638da9,2025-09-06,PayPal West Graeme,-162.87,USD,PayPal,Other,West Graeme,Guam
+3474b001-75dc-4395-892f-353f7f3c6b7f,2025-04-21,Subway New Pamela,-128.28,EUR,Subway,Food,New Pamela,Guernsey
+94e35547-0410-4545-b479-0af1af1e3526,2025-04-29,Pizza Express Atkinsonmouth,-237.45,EUR,Pizza Express,Food,Atkinsonmouth,Ghana
+c5b29b35-8a67-41fb-81c5-fa09517e9530,2024-11-30,Netflix Port Carolynville,-7.73,USD,Netflix,Entertainment,Port Carolynville,Angola
+9ed1d707-1808-4670-938e-07b13a9459b9,2025-09-12,PayPal Lake Rogerbury,-278.89,GBP,PayPal,Other,Lake Rogerbury,Maldives
+b34d399d-94ac-40b6-b3db-2cdd4b2f6eb3,2025-01-08,PlayStation Store West Yvonne,-296.78,USD,PlayStation Store,Entertainment,West Yvonne,Japan
+b7a1564e-8557-41d8-b44e-a39a40758958,2025-10-22,Freelance Payment Port Carol,267.33,EUR,Freelance Payment,Income,Port Carol,Norfolk Island
+e09b170b-50ad-4aa3-9df2-57e930a8898a,2025-01-12,Freelance Payment Byrneborough,85.49,EUR,Freelance Payment,Income,Byrneborough,Korea
+1fbb1e32-7141-4488-bcff-2d0864af60ba,2025-06-10,Thames Water Burgessborough,-220.68,USD,Thames Water,Utilities,Burgessborough,Costa Rica
+d6d52014-27af-4acd-a640-3e824585759b,2025-02-15,Spotify New Timothyside,-9.15,GBP,Spotify,Entertainment,New Timothyside,Colombia
+337ba153-39ae-46a7-8d41-779828584996,2025-03-19,Spotify South Geoffrey,-56.77,USD,Spotify,Entertainment,South Geoffrey,Estonia
+fbcc87aa-1391-4f5a-b841-8f30fcbb69c9,2025-07-09,Vision Express Hillmouth,-157.01,EUR,Vision Express,Health,Hillmouth,Nepal
+32b43b82-7dd5-4638-9a26-df0be158bf07,2025-03-28,Boots Pharmacy Foxstad,-59.51,EUR,Boots Pharmacy,Health,Foxstad,Guinea
+d8607201-e473-4207-a380-584e7dfbb416,2025-09-11,Airbnb Port Ellie,-281.07,EUR,Airbnb,Travel,Port Ellie,Romania
+246f5ec4-e718-4492-97dc-5eadc07fd9fd,2025-08-26,PlayStation Store Lake Aaronmouth,-74.48,GBP,PlayStation Store,Entertainment,Lake Aaronmouth,British Indian Ocean Territory (Chagos Archipelago)
+854955be-2a86-4d0c-8c4f-e9b8886458b6,2025-02-01,EE Mobile East Karenberg,-176.83,USD,EE Mobile,Utilities,East Karenberg,Malawi
+3cd9197f-a378-44ed-801c-009cb933f2cc,2025-03-28,Starbucks New Jacqueline,-197.84,USD,Starbucks,Food,New Jacqueline,Jamaica
+9257aa3a-3d6e-4bff-b5ea-b8b8443c0193,2025-01-12,Amazon New Mohammed,-202.0,GBP,Amazon,Shopping,New Mohammed,Liechtenstein
+29a76b72-eada-42eb-886d-2140b860efc8,2025-02-19,Spotify West Barbara,-124.6,USD,Spotify,Entertainment,West Barbara,Niger
+023ba64c-d68f-4704-9220-b0d29a9df4e1,2024-11-25,Netflix Johnfort,-193.42,GBP,Netflix,Entertainment,Johnfort,Burkina Faso
+c3e38194-6a9b-4b19-a475-296f6cc5aac8,2025-01-16,Thames Water Robsonhaven,-69.64,EUR,Thames Water,Utilities,Robsonhaven,Palau
+eccb3e29-17be-423c-9813-e6306168727d,2025-05-06,Booking.com Sandersonmouth,-139.22,USD,Booking.com,Travel,Sandersonmouth,Liechtenstein
+d26657ce-ecb5-4d6c-b881-a80423527b6f,2025-01-06,Octopus Energy Port Geraldport,-212.07,GBP,Octopus Energy,Utilities,Port Geraldport,Antigua and Barbuda
+d6faa374-3f8a-46b9-9416-2f6020701c78,2025-02-14,Tax Refund Lesliemouth,248.55,EUR,Tax Refund,Income,Lesliemouth,Mongolia
+5359c060-8477-4c61-9972-a6094436380b,2025-08-04,PayPal Parryville,-160.02,USD,PayPal,Other,Parryville,Montserrat
+42a2d1bc-868b-4620-b6c1-857a7176d985,2024-12-17,British Gas Joannaton,-275.59,EUR,British Gas,Utilities,Joannaton,Senegal
+ed267c55-fe57-47fc-ada7-bac9daa96518,2025-07-27,Just Eat South Timothy,-271.35,EUR,Just Eat,Food,South Timothy,Saint Pierre and Miquelon
+dd4e7d23-1c29-4bc8-aa6a-57999b5833c7,2025-09-05,Bank Fee West Ryan,-49.21,GBP,Bank Fee,Other,West Ryan,Korea
+2a7e7767-0e7d-43e7-a5d4-2d1d555e26bc,2025-02-10,Freelance Payment South Terencebury,39.29,EUR,Freelance Payment,Income,South Terencebury,Cote d'Ivoire
+fa70e539-059b-4ea8-adc1-cc8dedaa716b,2025-08-29,TransferWise Carolynchester,-31.83,USD,TransferWise,Other,Carolynchester,Chad
+71a36a2c-be96-4288-8b71-0ec13b0a243d,2025-06-19,Ryanair Port Russell,-138.76,USD,Ryanair,Travel,Port Russell,Sri Lanka
+db31e798-35b0-4223-bd8a-0d3ff382b1ed,2024-11-27,Vision Express Staceyview,-171.35,USD,Vision Express,Health,Staceyview,Nepal
+8dcf79cc-2455-4e21-a04e-2fa89d935a7d,2025-05-22,Airbnb Geraldineport,-218.37,GBP,Airbnb,Travel,Geraldineport,French Guiana
+971e2b80-b795-41cb-994a-2854abe78a6d,2025-06-03,Netflix East Victoriaton,-225.01,USD,Netflix,Entertainment,East Victoriaton,Falkland Islands (Malvinas)
+9cc54c65-7a7a-4b54-b62d-d71b693c2caa,2025-09-19,Tesco Lake Wayne,-129.99,USD,Tesco,Groceries,Lake Wayne,Egypt
+31a80499-839e-4d9e-90aa-6af222710494,2024-12-29,Waitrose Louisfurt,-298.27,EUR,Waitrose,Groceries,Louisfurt,Liechtenstein
+134ccb98-5b2b-4859-9104-5fa11251896d,2024-12-28,Ryanair Teresachester,-89.69,EUR,Ryanair,Travel,Teresachester,Honduras
+ea7d7730-c001-44d0-a96d-bb97fa1d6aa0,2025-04-20,BP Petrol South Katherineview,-115.47,GBP,BP Petrol,Transport,South Katherineview,Puerto Rico
+293f0732-d631-4beb-b9bb-eec8d5725bbf,2025-10-14,EasyJet Sandrafort,-115.82,USD,EasyJet,Travel,Sandrafort,Greece
+831fb84c-58c9-4e47-9b7d-96808a613953,2025-06-06,Salary ACME Ltd Lake Clarestad,197.79,GBP,Salary ACME Ltd,Income,Lake Clarestad,Thailand
+97d7ff3f-c9c0-4098-9fa0-92da92cb2055,2024-11-29,Sainsbury's Lloydchester,-297.89,GBP,Sainsbury's,Groceries,Lloydchester,Sweden
+9c5ad2e2-35f9-488f-9562-4a0b4d70edc2,2025-01-22,Salary ACME Ltd Brandonport,219.72,EUR,Salary ACME Ltd,Income,Brandonport,Guadeloupe
+34a3487b-e338-478c-8805-f4edc89b3bcf,2025-05-25,McDonald's New Danielle,-293.65,GBP,McDonald's,Food,New Danielle,Solomon Islands
+741afbc8-36de-4aa5-bc39-9e96bf774abd,2025-03-11,Freelance Payment North Nigelmouth,161.92,EUR,Freelance Payment,Income,North Nigelmouth,Andorra
+2439aed5-c4c4-485b-a9a9-90f258c83a83,2024-12-21,IKEA South Caroline,-107.12,GBP,IKEA,Shopping,South Caroline,Afghanistan
+501e5bf0-adb6-41f5-9cc7-ddde81f72ce8,2025-11-04,Amazon Howellberg,-14.5,USD,Amazon,Shopping,Howellberg,Turkmenistan
+5130c86b-3ecc-4825-8bfc-62c25beb4c14,2025-07-01,Boots Pharmacy Port Henry,-76.0,EUR,Boots Pharmacy,Health,Port Henry,Bermuda
+51c0cfd0-b893-4ca6-8e21-067730dcc17a,2025-07-03,Waitrose Jakestad,-14.91,USD,Waitrose,Groceries,Jakestad,Papua New Guinea
+14e34b58-7e15-4747-a4b8-5cb51a022164,2025-10-02,Subway North Hannah,-223.46,GBP,Subway,Food,North Hannah,Niue
+ec06e04a-513b-4039-adaf-c67f9fb020a2,2025-02-25,Booking.com South Abbie,-164.23,EUR,Booking.com,Travel,South Abbie,Bermuda
+c49e7a40-510c-48b3-8375-692651a89160,2025-07-21,Transport for London East Lesleyland,-298.08,EUR,Transport for London,Transport,East Lesleyland,Bulgaria
+71340104-d00d-451a-83b1-0d03522d1e4d,2025-06-11,TransferWise Baileymouth,-175.36,USD,TransferWise,Other,Baileymouth,Svalbard & Jan Mayen Islands
+72963dce-68ec-4109-bacc-93892122a4c2,2024-12-20,Thames Water Garnerfort,-94.02,EUR,Thames Water,Utilities,Garnerfort,Barbados
+7c1490e8-ed24-4717-9371-388231e969eb,2025-01-28,Salary ACME Ltd Lake Timothyville,127.0,GBP,Salary ACME Ltd,Income,Lake Timothyville,Germany
+bd68b891-5ee7-438b-a5ed-d5aeed5efd8c,2025-03-20,Just Eat Ashleyfurt,-284.81,USD,Just Eat,Food,Ashleyfurt,Singapore
+97cdab81-5b87-4a56-ba05-6c8d367a6b73,2025-08-30,BP Petrol Lake Sian,-168.98,EUR,BP Petrol,Transport,Lake Sian,Cambodia
+e4d6fd8e-3754-45ee-ade7-f8d54e57a3bb,2024-12-01,Octopus Energy New Francescaburgh,-236.81,GBP,Octopus Energy,Utilities,New Francescaburgh,Kazakhstan
+c47fb04a-4b79-4124-b8dd-7ffa441e50c8,2025-03-14,Vision Express Lake Derek,-49.02,GBP,Vision Express,Health,Lake Derek,Uruguay
+883e3ee9-99c8-41c0-a7dc-53c11d792bd3,2025-04-05,Transport for London Taylorland,-144.69,EUR,Transport for London,Transport,Taylorland,Ukraine
+cec4f3f8-b8f6-4a9f-8efe-0429a1db1fdf,2024-12-12,Spotify New Jacquelinestad,-242.7,EUR,Spotify,Entertainment,New Jacquelinestad,Japan
+4e732bcb-1862-423a-90b3-a19f1148a204,2025-03-01,Freelance Payment East Martyn,290.5,USD,Freelance Payment,Income,East Martyn,Oman
+fa2455a6-8212-4676-a35d-58165c4e90e5,2024-12-06,Salary ACME Ltd Hollietown,119.58,GBP,Salary ACME Ltd,Income,Hollietown,Thailand
+19aee77a-91bf-4ed1-8533-8081ae15df6c,2025-09-12,H&M Russellhaven,-195.78,GBP,H&M,Shopping,Russellhaven,New Caledonia
+b036e7e4-d6ca-47bb-9649-3ea64db17eb8,2025-05-11,British Gas Harriston,-163.01,EUR,British Gas,Utilities,Harriston,Slovenia
+3f723b5e-eca4-4b62-8c91-347c76cbc6b3,2025-09-30,Starbucks South Emma,-116.26,USD,Starbucks,Food,South Emma,Bouvet Island (Bouvetoya)
+7fd12b5e-fcd9-463f-8255-6e186308da66,2025-02-02,PayPal New Jamesstad,-262.72,EUR,PayPal,Other,New Jamesstad,Vietnam
+6720198e-c346-47f1-8f54-d546f0e7bef7,2025-03-01,Bank Fee Taylorshire,-203.08,EUR,Bank Fee,Other,Taylorshire,Italy
+eb8c3d48-2170-48e2-accc-a326876a47db,2025-03-19,Booking.com Port Megan,-261.49,GBP,Booking.com,Travel,Port Megan,Zimbabwe
+ec9b2714-7797-4d51-8cdb-8c2ce76835a1,2025-11-02,Netflix North Kateland,-67.48,EUR,Netflix,Entertainment,North Kateland,American Samoa
+ad0c1464-de67-491f-a3c0-11fa802aab24,2025-02-09,Aldi North Patriciahaven,-274.76,USD,Aldi,Groceries,North Patriciahaven,France
+bb875e34-875b-4eb5-8765-3c377696390c,2025-06-24,Bank Fee Davisonfurt,-65.33,EUR,Bank Fee,Other,Davisonfurt,Belize
+a8d0004b-e8f8-47a9-b867-e59455a419b0,2025-06-28,Freelance Payment West Jake,233.78,GBP,Freelance Payment,Income,West Jake,Georgia
+5e58b197-501e-4c15-b0cf-5d547906c0dc,2024-12-04,Airbnb Port Dean,-95.98,GBP,Airbnb,Travel,Port Dean,Mauritania
+475d1e03-3088-45da-9977-0261b29a2519,2025-03-05,Freelance Payment West Ameliachester,142.47,USD,Freelance Payment,Income,West Ameliachester,Saint Lucia
+4cf93fe7-4ce6-4c8c-9ac9-88ae0e26e0c1,2025-10-20,Airbnb North Duncan,-274.73,GBP,Airbnb,Travel,North Duncan,Benin
+0019ec88-e8d0-4f31-94fa-791b0ca408aa,2025-10-10,Octopus Energy South Mollyton,-18.49,EUR,Octopus Energy,Utilities,South Mollyton,Georgia
+620c62d2-ebe2-4716-a6c9-2d7e768e2449,2025-07-07,Uber North James,-81.93,USD,Uber,Transport,North James,Russian Federation
+b3295b7f-1984-47d8-a52c-c52cc2ddcf15,2024-12-26,Bank Fee East Jeanstad,-128.19,EUR,Bank Fee,Other,East Jeanstad,Mali
+3505d9af-9e70-4eab-9cc7-ac994f570477,2025-05-14,H&M Mohammedstad,-72.86,USD,H&M,Shopping,Mohammedstad,Brunei Darussalam
+80a3bba6-cde4-4586-b001-fe6b18f58f6f,2025-08-07,IKEA Terencetown,-167.44,USD,IKEA,Shopping,Terencetown,Grenada
+39d6a67d-8103-4d42-9076-f97c2090d08b,2025-08-28,EE Mobile Judithland,-230.19,GBP,EE Mobile,Utilities,Judithland,Estonia
+19f5b927-9182-416d-99f7-835385d28e33,2025-07-24,EasyJet South Carolinehaven,-54.63,GBP,EasyJet,Travel,South Carolinehaven,Guyana
+a9d05451-c5f3-4a84-b968-203692a9327c,2024-11-26,Trainline West Charles,-217.49,GBP,Trainline,Transport,West Charles,Equatorial Guinea
+fa4b2bc4-78b1-4044-891c-02483f6cddac,2025-08-16,Transport for London East Natashatown,-297.15,EUR,Transport for London,Transport,East Natashatown,Aruba
+7d2ec5e7-a446-40e9-9602-351aa04ba118,2025-09-16,Salary ACME Ltd East Jordanfort,252.53,EUR,Salary ACME Ltd,Income,East Jordanfort,Haiti
+39899b18-227a-499a-9b66-be3bc5c5e538,2025-03-26,McDonald's East Alan,-126.66,USD,McDonald's,Food,East Alan,Micronesia
+f1366f96-85e5-47c7-8025-e8f2c1f5633c,2025-08-26,Amazon Wilsonbury,-213.62,EUR,Amazon,Shopping,Wilsonbury,Israel
+fd777d6e-e7c1-47f4-9fb3-5e0522a6a9ae,2025-10-07,Apple Store Mathewland,-139.52,EUR,Apple Store,Shopping,Mathewland,Montserrat
+3036b5b0-bf67-4817-bec2-82fe295f1efe,2025-03-22,Bank Fee East Francishaven,-201.69,USD,Bank Fee,Other,East Francishaven,Aruba
+c8952025-bc03-4bd4-a246-50397ae7066e,2025-10-21,EasyJet South Lawrenceport,-9.64,USD,EasyJet,Travel,South Lawrenceport,Greece
+f76cf306-073d-457d-aead-48459faf15e4,2024-12-07,Freelance Payment Baileyborough,8.5,USD,Freelance Payment,Income,Baileyborough,French Guiana
+894a2a90-fdc2-4fe7-a53e-510742092586,2025-05-31,Cineworld Brendabury,-10.06,USD,Cineworld,Entertainment,Brendabury,Kyrgyz Republic
+01f2f9ef-c4fe-4b6f-b24d-13162510c185,2025-03-20,NHS Prescription Turnerborough,-36.57,EUR,NHS Prescription,Health,Turnerborough,Saint Martin
+28dd5f7e-8d9b-4416-a3a9-3a572600e071,2025-10-01,Salary ACME Ltd East Thomas,76.09,USD,Salary ACME Ltd,Income,East Thomas,Venezuela
+b5eacaf3-4b10-47d6-b17e-3bf14e2803ae,2025-04-05,Freelance Payment New Denis,245.49,GBP,Freelance Payment,Income,New Denis,North Macedonia
+2d9b0633-5f1f-4bf0-b988-44e8a84f198b,2025-09-09,Boots Pharmacy West Davidfurt,-115.05,GBP,Boots Pharmacy,Health,West Davidfurt,Thailand
+2dbca901-8c7c-4af5-96f3-c1102186b0a7,2025-08-03,Booking.com Stuartborough,-297.12,EUR,Booking.com,Travel,Stuartborough,Marshall Islands
+9d8f23c1-8bc6-4ca4-9e4a-991630c61814,2025-10-31,Netflix Hugheston,-197.85,USD,Netflix,Entertainment,Hugheston,Cambodia
+bec547b0-38e0-484e-8b28-971aae5ad372,2025-07-24,McDonald's North Dalehaven,-124.56,GBP,McDonald's,Food,North Dalehaven,Isle of Man
+9da3522c-823d-4a73-89ef-ac1ebae71266,2025-07-20,Freelance Payment Clareland,21.55,EUR,Freelance Payment,Income,Clareland,Mozambique
+2c51f651-ca91-4e27-a05a-ffc4e53e80d3,2024-12-10,Uber Lake Lisa,-152.46,GBP,Uber,Transport,Lake Lisa,Belarus
+bd3ced04-5394-43c3-bf30-ed1b1402ab96,2025-06-10,British Gas South Cherylberg,-268.96,EUR,British Gas,Utilities,South Cherylberg,Dominica
+11056577-e2fd-4acf-b64a-17ae77d9beb1,2025-02-20,Zara Lisamouth,-270.88,USD,Zara,Shopping,Lisamouth,Ghana
+1c51de49-1c50-4aea-b142-bdec2a639e86,2025-04-20,TransferWise North Reece,-84.97,EUR,TransferWise,Other,North Reece,Burkina Faso
+1e31f680-1d98-4b44-82dd-ebdd4c71f53d,2025-08-18,Netflix East Kennethburgh,-57.91,GBP,Netflix,Entertainment,East Kennethburgh,Korea
+09e7cbce-49c0-4227-88ed-67857ab0b8ff,2025-04-25,Subway O'Neillstad,-178.18,USD,Subway,Food,O'Neillstad,Sierra Leone
+e86fea77-535c-4a14-b5b3-7d20340d8633,2025-01-20,Boots Pharmacy Gillianview,-93.29,USD,Boots Pharmacy,Health,Gillianview,Timor-Leste
+d288c103-d760-4f3f-a71f-60317fdda64b,2024-12-19,Apple Store Port Joyce,-251.22,GBP,Apple Store,Shopping,Port Joyce,Gabon
+6187718c-14d3-42c8-8792-18261d6503b1,2025-09-04,Freelance Payment East Tobyberg,118.23,USD,Freelance Payment,Income,East Tobyberg,Bermuda
+5245c34b-8ada-4c9c-ad05-a89236de0856,2025-07-24,Uber Hannahhaven,-152.73,GBP,Uber,Transport,Hannahhaven,Australia
+bf29f7d7-8aea-4d0a-a662-b147db5734e6,2025-07-11,McDonald's Clivetown,-133.94,EUR,McDonald's,Food,Clivetown,Zambia
+c9a6701c-6ef4-455b-aa40-0a7768f70fa1,2025-04-03,Octopus Energy Humphreysside,-290.83,GBP,Octopus Energy,Utilities,Humphreysside,Egypt
+511a080c-e3e0-43b4-a45a-eb6fef91fdca,2024-12-10,Starbucks Port Bradleyville,-236.15,GBP,Starbucks,Food,Port Bradleyville,American Samoa
+28298aee-46d9-4368-89f9-d01893a1e29d,2024-11-28,Booking.com East Joe,-109.96,GBP,Booking.com,Travel,East Joe,Swaziland
+d6413d85-2e90-4271-a68c-c44d0f17f0ac,2025-04-01,NHS Prescription New Kateview,-205.51,USD,NHS Prescription,Health,New Kateview,United States Virgin Islands
+d905cfb4-e12e-4bf4-b17f-d5051863204f,2025-08-30,Boots Pharmacy North Joemouth,-232.79,GBP,Boots Pharmacy,Health,North Joemouth,Sudan
+002fa758-df9f-4729-9a7a-1bf2eab0c2da,2024-12-23,Amazon Adrianton,-29.2,EUR,Amazon,Shopping,Adrianton,Western Sahara
+6ee5c961-07a5-4332-b2e1-6a80fa711ed9,2025-04-23,NHS Prescription New Ann,-223.2,GBP,NHS Prescription,Health,New Ann,Swaziland
+4234c8c6-d0ae-452b-9393-b7c331a689bd,2025-07-29,British Gas Daychester,-32.0,GBP,British Gas,Utilities,Daychester,China
+30060b1a-fc87-43e8-ac16-662ddff7a6f6,2025-03-15,Airbnb West Leonard,-229.6,EUR,Airbnb,Travel,West Leonard,Kiribati
+b85f8526-191b-42c7-91dd-426ff6d50496,2025-09-25,Uber New Jasminebury,-60.28,GBP,Uber,Transport,New Jasminebury,Oman
+4ac7ad85-2548-4a1b-ac89-185f4614e986,2025-02-22,Tax Refund Youngfort,156.17,EUR,Tax Refund,Income,Youngfort,Bahamas
+9df1e78f-0622-4234-9ca7-b1dad6fa8f30,2024-12-08,McDonald's Khanborough,-109.4,EUR,McDonald's,Food,Khanborough,Norway
+513b1f72-d2b5-47f6-8d75-9dbf5ac0ae8d,2025-09-25,Bank Fee Lake Paige,-236.41,GBP,Bank Fee,Other,Lake Paige,South Africa
+dd13a42f-31ff-4513-a3b5-c4fc40cb228f,2024-11-13,Starbucks Gillstad,-127.07,EUR,Starbucks,Food,Gillstad,Lesotho
+aae7423e-8859-4fd9-8d2c-5ec7b441181e,2025-05-24,Salary ACME Ltd Wardshire,173.73,EUR,Salary ACME Ltd,Income,Wardshire,Macao
+3631d01e-9fe2-48ec-98c5-74e18fdc2040,2025-03-03,NHS Prescription Jeremytown,-45.96,GBP,NHS Prescription,Health,Jeremytown,Ghana
+1a043792-8158-4868-b019-6cb3250989d6,2025-06-12,PlayStation Store Port Leonardton,-48.05,EUR,PlayStation Store,Entertainment,Port Leonardton,Sudan
+4266b0b9-9fac-4a85-983f-a6b29e5bb6fd,2025-11-03,PureGym Fionabury,-129.23,GBP,PureGym,Health,Fionabury,Cayman Islands
+6a3989af-abdf-40a9-a33a-ab3f1bb825fe,2024-12-12,Lidl West Eleanor,-79.25,EUR,Lidl,Groceries,West Eleanor,Suriname
+713fb120-028a-4f89-93fe-620f4f207b4e,2025-08-22,Booking.com Port Geraldshire,-140.07,EUR,Booking.com,Travel,Port Geraldshire,Tanzania
+2a9ff2dc-7d6b-4c8c-b077-20e492b33c62,2025-10-31,Netflix Evansburgh,-284.9,GBP,Netflix,Entertainment,Evansburgh,Christmas Island
+527add6e-caa3-4e1d-8d14-87ae3daa0bac,2025-01-31,TransferWise Ameliastad,-242.2,GBP,TransferWise,Other,Ameliastad,United States Minor Outlying Islands
+2f91cdfb-9d43-4c2f-8b28-9d3dfb455ee5,2025-06-10,Airbnb Kirstyshire,-132.03,USD,Airbnb,Travel,Kirstyshire,Cambodia
+8b9c7138-94bb-4f6d-a07e-76d1c138abab,2025-05-31,PayPal Port Valerie,-93.63,USD,PayPal,Other,Port Valerie,Mauritius
+34cee0d3-0c9f-4636-aa80-6a2db6991cfc,2025-02-27,IKEA Thomaston,-97.68,GBP,IKEA,Shopping,Thomaston,Djibouti
+acc78d64-29e6-422f-af88-4c9234f263bc,2025-06-14,EE Mobile New Lesleytown,-221.79,USD,EE Mobile,Utilities,New Lesleytown,Greenland
+7c3e6500-f61c-4a0d-8ba5-7b1cace1ea41,2025-10-07,Booking.com Port Callum,-101.14,GBP,Booking.com,Travel,Port Callum,Guam
+d157db4a-2654-40e1-8d12-0ed5c092faf8,2025-07-26,PureGym Darrentown,-38.6,USD,PureGym,Health,Darrentown,Cameroon
+3ff98f00-ff05-4c66-be4b-b1334039a1f5,2025-06-08,Apple Store Port Jamie,-299.19,EUR,Apple Store,Shopping,Port Jamie,Tanzania
+9cd4435e-023a-439a-aff6-712aef76cbff,2025-05-17,Salary ACME Ltd Liamstad,286.14,GBP,Salary ACME Ltd,Income,Liamstad,Romania
+2dcec8fa-162b-4be2-89ad-c1e547bc6ce5,2025-10-16,IKEA Grantmouth,-240.32,USD,IKEA,Shopping,Grantmouth,Gabon
+0184511c-37d7-437a-be20-68c22eb80b13,2025-03-04,Aldi Lake Amanda,-203.53,EUR,Aldi,Groceries,Lake Amanda,Somalia
+6139baf1-4f03-4577-9bdd-f6080ccdafce,2025-06-27,Spotify Brooksburgh,-79.54,EUR,Spotify,Entertainment,Brooksburgh,Russian Federation
+b722120d-f030-4384-8107-4c0d2d51a90b,2025-10-26,Vision Express Francisshire,-26.82,USD,Vision Express,Health,Francisshire,Suriname
+83b0b301-ed75-403e-b220-e993ab0184a0,2025-01-09,EasyJet Charleneport,-162.64,USD,EasyJet,Travel,Charleneport,Brunei Darussalam
+28324a74-5540-4d71-891b-486951a55b34,2025-01-10,Boots Pharmacy Lake Marionfurt,-238.26,GBP,Boots Pharmacy,Health,Lake Marionfurt,Thailand
+8e24064f-f335-4f0e-a56c-7b15dc0e5e5e,2025-11-04,Tax Refund East Mandymouth,193.26,EUR,Tax Refund,Income,East Mandymouth,Uruguay
+26ae93c5-64e9-487e-b89c-811d595bce77,2025-08-29,Sainsbury's Lake Anna,-198.99,GBP,Sainsbury's,Groceries,Lake Anna,Bosnia and Herzegovina
+f7c3c183-31f3-4a64-a593-4fc34b910b7c,2025-10-14,Transport for London West Martin,-18.07,USD,Transport for London,Transport,West Martin,Dominica
+e9a3b63e-57d6-42ee-be8a-2f6637485de9,2025-03-12,PureGym Mohammedland,-289.89,GBP,PureGym,Health,Mohammedland,Swaziland
+b208f45a-7558-49f1-80c5-3d8e067dfd98,2025-07-23,Tesco Katietown,-34.09,EUR,Tesco,Groceries,Katietown,Estonia
+fa841dae-98c1-4fcb-b1b5-d76b01917bec,2025-01-21,Tax Refund West Douglasville,158.05,USD,Tax Refund,Income,West Douglasville,Saint Helena
+32ad109f-8724-47f2-b8e0-3fa886657df4,2024-11-06,PayPal Williamschester,-136.5,GBP,PayPal,Other,Williamschester,Chad
+db12a9cc-42ab-4fb0-a00f-24ff57946a1e,2025-09-25,Booking.com Wallacestad,-106.77,EUR,Booking.com,Travel,Wallacestad,Mayotte
+156357c4-48eb-44c8-a945-091ba0e68a67,2025-03-23,Ryanair Pearsonshire,-92.15,EUR,Ryanair,Travel,Pearsonshire,Pakistan
+f847b3ea-0bda-4617-b057-311b8d1426ed,2025-08-10,Sainsbury's East Alison,-107.76,GBP,Sainsbury's,Groceries,East Alison,Barbados
+fd7f93a7-695b-4a6c-be85-90424aa5c1db,2025-08-25,Booking.com West Michaelmouth,-158.73,GBP,Booking.com,Travel,West Michaelmouth,Eritrea
+c814a1b5-7870-4e8b-8d64-53179bc96e8d,2025-10-20,Ryanair West Ronaldfurt,-134.26,USD,Ryanair,Travel,West Ronaldfurt,Central African Republic
+3eabaaed-8340-40d7-868c-edfa2ac4656f,2025-07-31,Airbnb West Marilynfort,-24.82,EUR,Airbnb,Travel,West Marilynfort,Romania
+33b25019-5085-4ed3-a11f-020fddc35086,2024-11-17,Tesco New Tracy,-255.51,USD,Tesco,Groceries,New Tracy,Cayman Islands
+92c586b6-dc3a-4f25-b4e6-f32cc638fb29,2024-11-25,Sainsbury's Russellborough,-279.33,USD,Sainsbury's,Groceries,Russellborough,Ireland
+78a9d961-59e6-418f-ae27-4ad74cbc549e,2025-07-19,Apple Store Ireneport,-56.46,EUR,Apple Store,Shopping,Ireneport,French Southern Territories
+ff749309-2b84-4c4e-af93-39f880e0d085,2025-01-31,Octopus Energy South Alexandraside,-287.75,EUR,Octopus Energy,Utilities,South Alexandraside,Tajikistan
+93fff0cb-c5fe-4665-b3d5-acddf37f4c48,2025-05-04,NHS Prescription West Paulchester,-59.98,USD,NHS Prescription,Health,West Paulchester,Benin
+8b14db4a-c58b-48b7-a615-5779302c4b3b,2025-02-21,Vision Express Ryantown,-13.61,USD,Vision Express,Health,Ryantown,Costa Rica
+2c43d42e-03ee-4346-babc-88a654d5a848,2025-01-07,IKEA Jonathanfort,-179.7,GBP,IKEA,Shopping,Jonathanfort,Tanzania
+5c8c11e3-152c-46aa-96b1-cea223b4afaf,2024-12-18,Subway Jonesview,-65.71,USD,Subway,Food,Jonesview,Bermuda
+5aaef601-6dad-43d9-bdd0-a21a47b7d10d,2025-06-28,Waitrose Gallagherfurt,-35.02,USD,Waitrose,Groceries,Gallagherfurt,Heard Island and McDonald Islands
+37ffffc4-df5c-4b88-9958-6252124cef2d,2025-01-13,Shell West Chloemouth,-101.17,GBP,Shell,Transport,West Chloemouth,Estonia
+4cd50d12-3407-4085-bee0-5f01d8c6e8a8,2025-01-27,Lidl Lynneton,-202.86,GBP,Lidl,Groceries,Lynneton,Canada
+1a91c49c-1a20-4dda-8be2-4ecfc2688707,2025-08-08,Tax Refund North Aimeestad,97.45,GBP,Tax Refund,Income,North Aimeestad,Sri Lanka
+41fd19ed-036c-4f2f-b2d9-ad9c466249af,2025-05-23,TransferWise New Benjamin,-178.17,GBP,TransferWise,Other,New Benjamin,Tajikistan
+fd283959-4d9f-4020-a046-74bf71651125,2025-03-27,Octopus Energy Morganfort,-187.12,USD,Octopus Energy,Utilities,Morganfort,Montserrat
+4746ff10-0698-4a9a-8bef-06d5897eee6b,2025-09-24,Netflix Burnsfurt,-203.27,GBP,Netflix,Entertainment,Burnsfurt,United Kingdom
+0a17ae2f-596b-44b0-bb00-f734415df753,2025-09-14,Sainsbury's New Alexandrahaven,-95.09,EUR,Sainsbury's,Groceries,New Alexandrahaven,South Georgia and the South Sandwich Islands
+639a0a98-ac3b-4c6b-970c-b866d1070586,2025-06-03,Thames Water North Lucy,-155.69,GBP,Thames Water,Utilities,North Lucy,China
+2dc07124-9a57-4be3-a29f-8b0c500be5b0,2025-10-19,PayPal East Alex,-174.57,GBP,PayPal,Other,East Alex,Brunei Darussalam
+ac566416-e7c5-405e-9b89-bf73292083b6,2024-11-21,BP Petrol Lake Tracyborough,-192.47,USD,BP Petrol,Transport,Lake Tracyborough,Swaziland
+0ed694df-cf16-46a6-92b4-014adf1bf204,2025-06-23,Transport for London Stanleyland,-54.23,GBP,Transport for London,Transport,Stanleyland,Benin
+3e964392-4e2b-4c9a-830d-25ba2b10a69e,2025-03-28,Trainline Fisherview,-97.8,GBP,Trainline,Transport,Fisherview,Mali
+29682c74-4b0e-4f49-881f-0d7d1de1cbfe,2025-04-22,PayPal Port Bethshire,-260.33,EUR,PayPal,Other,Port Bethshire,Mali
+fef90d38-35a5-49ac-8658-9f339b0a1664,2025-08-19,Booking.com South Kieranberg,-62.56,GBP,Booking.com,Travel,South Kieranberg,Montenegro
+95918783-c447-4757-8b0c-11da06baf30d,2025-06-09,Tax Refund North Lynneville,197.66,GBP,Tax Refund,Income,North Lynneville,Solomon Islands
+54e7faa1-1318-4101-acc1-bc349f7e05aa,2025-02-18,EasyJet Victoriaview,-214.49,GBP,EasyJet,Travel,Victoriaview,Hungary
+23453796-e00e-4480-aafe-3b74cc660ba5,2025-07-03,Booking.com Thomasview,-29.39,EUR,Booking.com,Travel,Thomasview,Iraq
+5ea123b0-6b8a-4d3b-a559-d60a7b927a92,2024-12-28,H&M Thomasmouth,-14.65,EUR,H&M,Shopping,Thomasmouth,Portugal
+14d68a08-28e3-4545-ac07-a383f48143cd,2025-01-31,Freelance Payment Wallstad,54.62,GBP,Freelance Payment,Income,Wallstad,Angola
+923bc4b5-acdb-4c86-86e5-7e526e556288,2025-03-09,Bank Fee Graemeview,-232.9,GBP,Bank Fee,Other,Graemeview,Tajikistan
+73140882-5245-4d6a-bb87-3b4e7a9778d3,2025-05-04,Tax Refund Port Julianberg,38.4,EUR,Tax Refund,Income,Port Julianberg,French Southern Territories
+bfeaa1e2-b15a-4660-8cc7-1d4ab8007727,2025-10-28,Cineworld Russellmouth,-164.9,EUR,Cineworld,Entertainment,Russellmouth,Ethiopia
+f4d7867e-b7b5-4da5-afc4-16b5a9cf6af1,2025-07-30,Booking.com East Angelaborough,-296.98,EUR,Booking.com,Travel,East Angelaborough,United States Minor Outlying Islands
+a9332cb8-2f44-4841-b987-62f090691bcc,2025-09-03,H&M Carterstad,-263.07,EUR,H&M,Shopping,Carterstad,Swaziland
+eed95d28-12f5-4b3f-8779-7d1944085bca,2024-11-26,Airbnb North Graeme,-107.83,EUR,Airbnb,Travel,North Graeme,Russian Federation
+1c7af052-8acb-4878-8255-d5b01cc2bb63,2025-05-10,Ryanair Port Judith,-233.81,EUR,Ryanair,Travel,Port Judith,Turkmenistan
+40a71f4f-22ba-4064-b5c2-04fcb1bf6824,2025-06-02,Apple Store East Marc,-208.29,USD,Apple Store,Shopping,East Marc,Taiwan
+d256c9a5-6c8b-4add-9598-8cbfa8efecf1,2024-11-27,Bank Fee South Adamstad,-131.31,USD,Bank Fee,Other,South Adamstad,Romania
+e5c6af44-6e00-47e0-8b30-1c1951a8ce9b,2025-01-17,Trainline Gillianhaven,-244.99,EUR,Trainline,Transport,Gillianhaven,Indonesia
+27b33a51-16c1-489a-a6a8-5b1081f5c667,2025-06-26,TransferWise Lake Robertbury,-162.02,USD,TransferWise,Other,Lake Robertbury,Holy See (Vatican City State)
+e3705c95-45a6-43cb-a881-68edd60e2b2f,2025-05-03,Salary ACME Ltd Williamsonfort,100.48,USD,Salary ACME Ltd,Income,Williamsonfort,Namibia
+f0025fc0-c765-4049-ab64-afb15dbab8c2,2025-05-26,Cineworld Benview,-173.96,USD,Cineworld,Entertainment,Benview,San Marino
+cf4bb0aa-71d6-49e3-aa4b-d07ecd90deff,2025-09-06,Sainsbury's West Matthewfurt,-289.02,GBP,Sainsbury's,Groceries,West Matthewfurt,Australia
+09d1dadd-cf7a-477f-b2d1-1b91db816d3d,2025-01-04,Starbucks Port Ross,-260.78,EUR,Starbucks,Food,Port Ross,Oman
+585faebc-6911-4e80-ad59-84c7c1afe4de,2025-01-27,Trainline West Naomi,-48.14,GBP,Trainline,Transport,West Naomi,Ireland
+98210799-bf2f-4444-a7e3-98162b6e5971,2025-05-12,IKEA South Wayneburgh,-149.39,USD,IKEA,Shopping,South Wayneburgh,Netherlands Antilles
+6fa7ae1f-c6f5-41d3-9bdd-6849213031c4,2025-08-26,PlayStation Store West Tina,-115.68,EUR,PlayStation Store,Entertainment,West Tina,Sri Lanka
+8066f88a-f49f-4ffa-9635-7f4dee60c86a,2025-10-17,Aldi Maryfurt,-157.11,GBP,Aldi,Groceries,Maryfurt,Timor-Leste
+176b7793-e6c8-4149-9ab5-fec8b49bd300,2025-03-13,Octopus Energy Charliemouth,-285.32,GBP,Octopus Energy,Utilities,Charliemouth,Gabon
+bd723449-1565-48d4-8fd6-15812ea2d8d6,2025-07-11,PayPal Jacksontown,-261.33,USD,PayPal,Other,Jacksontown,Malawi
+5fffdbcf-b1e6-4ec4-9039-ebc62700d036,2025-11-06,Aldi Chelseaport,-192.28,USD,Aldi,Groceries,Chelseaport,French Southern Territories
+fdac8ca3-fcc4-4460-969a-2adbfa0cabf3,2025-07-14,British Gas Collinsview,-239.72,GBP,British Gas,Utilities,Collinsview,Northern Mariana Islands
+09e604c2-ea17-40a5-bab7-a2e8be03b460,2025-03-05,IKEA Elliotport,-248.33,GBP,IKEA,Shopping,Elliotport,Comoros
+5a22543b-87cc-48bc-8eef-09e6cd1e4075,2024-12-30,Cineworld North Grace,-249.36,GBP,Cineworld,Entertainment,North Grace,Iraq
+2431e934-4c32-416d-b2dd-7d39988312c3,2025-07-05,Tax Refund Lake Richard,43.53,GBP,Tax Refund,Income,Lake Richard,Palau
+493658d0-dd3f-4504-9342-4151f4c32d06,2025-05-07,British Gas Garrychester,-18.55,USD,British Gas,Utilities,Garrychester,Iraq
+b1c8b395-cf64-4c9c-8123-0593602a5231,2025-03-28,Ryanair New Lindseyshire,-41.65,EUR,Ryanair,Travel,New Lindseyshire,Suriname
+f884af10-2409-432f-b1aa-a06fbc352c4b,2025-01-14,EasyJet Lake Eleanor,-5.2,GBP,EasyJet,Travel,Lake Eleanor,Northern Mariana Islands
+1dd33c30-98e6-448c-b172-816c7014b9ef,2025-08-20,Zara Kathleenport,-265.23,GBP,Zara,Shopping,Kathleenport,Tanzania
+d0626d91-a5c4-4911-9c27-49d8db31aa5a,2025-01-07,Shell West Lewis,-32.54,GBP,Shell,Transport,West Lewis,Latvia
+907a698d-f137-473f-9316-1c57d3de8987,2024-12-22,Netflix Yvonneburgh,-114.69,USD,Netflix,Entertainment,Yvonneburgh,Yemen
+311b3a08-0759-4fc2-8f38-1241d5136d18,2025-07-12,Uber Abbieland,-121.92,GBP,Uber,Transport,Abbieland,Cyprus
+bae3254b-55c2-4cec-8dbc-9bf65dcbdf76,2025-03-16,IKEA Emilymouth,-198.37,USD,IKEA,Shopping,Emilymouth,Holy See (Vatican City State)
+9c05494a-3188-4f0f-a1b6-811039810572,2025-02-09,Tesco Gillianville,-67.96,EUR,Tesco,Groceries,Gillianville,Latvia
+c8a214e7-baf6-437b-b390-ca46c274e257,2024-11-25,Transport for London South Gordonhaven,-71.73,USD,Transport for London,Transport,South Gordonhaven,British Indian Ocean Territory (Chagos Archipelago)
+adcf1f60-346f-4eee-a10f-dbed52831d29,2025-09-19,Ryanair Hillchester,-7.38,GBP,Ryanair,Travel,Hillchester,Austria
+05ae87c6-ff73-4b5c-adbb-0995010b853a,2025-09-20,Aldi East Marc,-209.74,GBP,Aldi,Groceries,East Marc,Guam
+63ea1e63-fe38-48bb-8bfc-9b758f434344,2025-04-04,Sainsbury's Wilkinsburgh,-118.01,USD,Sainsbury's,Groceries,Wilkinsburgh,Slovakia (Slovak Republic)
+b9024417-33a5-49f0-a582-a1da4f48bf16,2024-12-05,Tesco Juliaburgh,-97.44,GBP,Tesco,Groceries,Juliaburgh,Germany
+66720ff2-7035-47b9-b9aa-e82d48a8da34,2025-06-26,BP Petrol South Henryborough,-233.17,EUR,BP Petrol,Transport,South Henryborough,Senegal
+9383f877-eba8-47f9-8330-c8c019124205,2025-08-16,Uber South Craig,-161.5,EUR,Uber,Transport,South Craig,Bulgaria
+d8bffa54-b3d6-4afb-8f54-a3ca2581f6ad,2025-06-18,Bank Fee Ahmedfort,-53.41,GBP,Bank Fee,Other,Ahmedfort,Hungary
+94e62c1f-42e8-460f-b226-52dd5be8929d,2024-11-07,Zara Lake Karen,-276.37,USD,Zara,Shopping,Lake Karen,Zambia
+b9b3e807-9a2f-43d6-8fbd-5a1c91c492d0,2024-11-11,Booking.com Melanieborough,-30.57,EUR,Booking.com,Travel,Melanieborough,Andorra
+b358ea0c-c5f4-444c-a696-06d4948ebc8d,2025-07-11,Uber East Annette,-178.92,GBP,Uber,Transport,East Annette,Turkey
+e72a0523-b29e-48fb-b5c9-7e0c7a673f6f,2025-03-12,Octopus Energy North Jacqueline,-97.78,EUR,Octopus Energy,Utilities,North Jacqueline,Macao
+58bda0eb-8004-48c7-af8f-4330ed77198e,2025-06-09,H&M North Jordan,-195.16,EUR,H&M,Shopping,North Jordan,French Southern Territories
+45aeab73-deff-478f-b652-c8da5d792183,2025-10-19,Tax Refund Woodhaven,182.0,USD,Tax Refund,Income,Woodhaven,Guadeloupe
+9e13c9b2-a0dd-46dc-96fc-748416c840f7,2025-04-13,Netflix West Wendy,-255.13,USD,Netflix,Entertainment,West Wendy,Guinea-Bissau
+ae461fac-d9e6-4b4d-b2ec-1bcf647a3f92,2025-08-07,Spotify Port Sophie,-157.74,USD,Spotify,Entertainment,Port Sophie,Andorra
+5b6508fa-ea5c-4cb3-a7ae-aaf375a0ed00,2025-01-28,IKEA East Daniel,-92.18,EUR,IKEA,Shopping,East Daniel,Namibia
+e58f9082-589f-4aaf-96e5-d423e1bf6e27,2025-05-09,IKEA West Naomiton,-118.84,EUR,IKEA,Shopping,West Naomiton,Honduras
+616514e8-60f0-428c-ad3d-cb674167c009,2025-09-22,Ryanair Eleanorton,-160.84,EUR,Ryanair,Travel,Eleanorton,Nepal
+5fdddcde-e8a6-4386-9a7e-32f2891aecdb,2025-11-05,EE Mobile Lake Michaelton,-43.93,USD,EE Mobile,Utilities,Lake Michaelton,Portugal
+57de7435-1b91-4988-8fc6-6931055e6525,2024-12-18,PureGym Palmerside,-166.18,EUR,PureGym,Health,Palmerside,El Salvador
+2f925e93-9103-4b3f-9b75-b397fa68342f,2025-04-28,Ryanair East Annette,-9.92,EUR,Ryanair,Travel,East Annette,Poland
+73c5fa16-3528-472f-bce6-b32a9a439316,2025-06-24,Starbucks Emilyville,-68.64,EUR,Starbucks,Food,Emilyville,Panama
+bf88c565-1712-4481-9be4-4c8e217363be,2025-05-15,PureGym South Stuart,-190.43,USD,PureGym,Health,South Stuart,Malawi
+4a0fac4a-39e8-49dd-8319-b7e8aebb1bca,2025-07-27,Vision Express West Geoffreyville,-212.03,EUR,Vision Express,Health,West Geoffreyville,Luxembourg
+d7cbc313-6980-429f-b2fb-841d76c3472c,2025-01-17,Tax Refund Port Marcus,186.73,GBP,Tax Refund,Income,Port Marcus,Switzerland
+01f9d902-8847-4dd7-902f-b053dee030f0,2025-05-16,Lidl West Geraldine,-28.31,EUR,Lidl,Groceries,West Geraldine,Ireland
+0699836c-3e0d-4d08-b4d3-41ee512bb3ed,2025-02-22,Transport for London New Jeanborough,-101.39,USD,Transport for London,Transport,New Jeanborough,Portugal
+ec9fbb54-c81e-4499-ad18-7d91df650692,2025-10-13,Lidl Damiantown,-211.11,USD,Lidl,Groceries,Damiantown,American Samoa
+74420308-27ed-4c3a-bf3c-5578baa58642,2025-07-09,Amazon Port Marionfort,-77.12,GBP,Amazon,Shopping,Port Marionfort,Canada
+b67342a4-87ea-4cad-8a5b-4dd11820bea6,2025-10-19,Aldi Lake Oliverview,-185.63,EUR,Aldi,Groceries,Lake Oliverview,Norway
+afab1569-06be-40e9-ad85-6f0e1a231967,2025-01-29,Spotify Arthurmouth,-40.24,USD,Spotify,Entertainment,Arthurmouth,Australia
+7ebdc196-0770-42fe-bb6f-143906cd69da,2024-12-12,Uber Port Simon,-53.33,GBP,Uber,Transport,Port Simon,Timor-Leste
+e74e9c30-731b-4d82-bb6d-833b48da74bd,2025-02-20,Tax Refund Rachelville,235.98,USD,Tax Refund,Income,Rachelville,Bhutan
+04f3a184-7ed8-4d4f-8356-8b162899c0b6,2025-09-13,Spotify North Ashleyburgh,-114.7,USD,Spotify,Entertainment,North Ashleyburgh,Greenland
+9dd39771-f1e1-42f7-bde8-716d4e606389,2025-03-16,Netflix Nolanview,-232.57,EUR,Netflix,Entertainment,Nolanview,Turkey
+5a7b9733-8024-47f3-bf52-62187ccb6a66,2025-08-01,Octopus Energy Glennburgh,-85.23,EUR,Octopus Energy,Utilities,Glennburgh,Brazil
+3b360c92-acf6-4a26-acc9-df87cfc5aff1,2025-04-01,Netflix Dixonfurt,-151.36,USD,Netflix,Entertainment,Dixonfurt,Portugal
+a0483b9b-1560-4498-98b2-163b50911dcb,2025-09-13,British Gas Brooksburgh,-152.38,USD,British Gas,Utilities,Brooksburgh,Bouvet Island (Bouvetoya)
+aba7aea3-fc9f-4f84-ae22-1d5e4f94fae9,2024-12-24,Shell Port Samville,-51.41,EUR,Shell,Transport,Port Samville,Israel
+1ec5842f-723d-4755-8fa0-f7d0fd6db1fe,2025-10-05,Bank Fee Robertsmouth,-218.22,EUR,Bank Fee,Other,Robertsmouth,Cocos (Keeling) Islands
+cadc227a-0231-4936-84ec-61412c602e90,2025-06-17,Salary ACME Ltd Mollytown,17.99,EUR,Salary ACME Ltd,Income,Mollytown,Tokelau
+8cc8707c-851f-4f92-b18d-b34509b6a881,2025-07-14,Amazon South Holly,-144.17,GBP,Amazon,Shopping,South Holly,Bouvet Island (Bouvetoya)
+aad138f6-60db-46ff-8ff8-2978365dda19,2025-09-26,Trainline Thomasview,-279.69,EUR,Trainline,Transport,Thomasview,Palau
+b61ad754-5095-40ea-95c7-724a05bbd900,2025-03-01,Tax Refund Lake Declan,223.5,GBP,Tax Refund,Income,Lake Declan,Maldives
+2dfe7c14-5b6f-4860-a35b-713d8c87b0db,2025-05-16,H&M South Irenebury,-78.24,USD,H&M,Shopping,South Irenebury,Liberia
+8a614f5e-8b76-4db3-bec6-d72817667781,2025-03-12,EE Mobile Brayside,-248.67,USD,EE Mobile,Utilities,Brayside,Uganda
+11def8bb-4b7e-4496-8eff-2371be86772c,2025-11-02,British Gas North Carlyburgh,-153.1,EUR,British Gas,Utilities,North Carlyburgh,Madagascar
+805427cd-e7ef-4101-a6fa-ccd062621964,2025-09-12,Trainline Taylorland,-242.28,EUR,Trainline,Transport,Taylorland,Sao Tome and Principe
+0a609432-d8e7-4164-8bb0-61ec00fc6965,2025-05-04,Boots Pharmacy West Ricky,-263.71,GBP,Boots Pharmacy,Health,West Ricky,Australia
+3cbc173a-4902-4451-b591-5b1805c36106,2025-05-10,Cineworld Ahmedbury,-30.48,GBP,Cineworld,Entertainment,Ahmedbury,Belgium
+42db38d9-5e2c-46cb-b43f-321cc4a6aa34,2025-04-23,Starbucks Nicholsonfort,-64.2,USD,Starbucks,Food,Nicholsonfort,Kiribati
+30cf3a4a-1981-4b3f-88b8-f570e40842b4,2025-03-01,Spotify Morristown,-141.86,USD,Spotify,Entertainment,Morristown,Bosnia and Herzegovina
+4d145bd2-681b-4248-949a-2ccfbfc3d3d4,2025-04-02,Booking.com New Georginatown,-221.08,USD,Booking.com,Travel,New Georginatown,Sweden
+331bdc3f-40f6-4aec-8a3b-85ea1803d179,2024-12-09,Zara Natashaside,-6.88,GBP,Zara,Shopping,Natashaside,Costa Rica
+cb944440-c82a-42e4-9cab-9564864088db,2025-07-03,Subway Gilesstad,-164.76,USD,Subway,Food,Gilesstad,Sweden
+4731a359-0837-482b-8b4a-616328e793c4,2024-11-25,Starbucks Port Sandra,-5.43,USD,Starbucks,Food,Port Sandra,Greenland
+d74e1c95-0902-4158-b502-e8988674af27,2025-05-30,PureGym Edwardsstad,-35.66,USD,PureGym,Health,Edwardsstad,Saint Barthelemy
+9dd72f9e-fd53-4f6c-ae89-7279e48179d4,2025-04-20,IKEA Port Katybury,-150.15,EUR,IKEA,Shopping,Port Katybury,Afghanistan
+93eee604-d5ca-4d2e-a33c-9faa8af3cd34,2025-03-10,Shell Lorrainehaven,-32.44,EUR,Shell,Transport,Lorrainehaven,Holy See (Vatican City State)
+5af4cc4e-2b4f-4cc2-b4e4-ba4f1e0044a1,2025-07-20,Freelance Payment East Valerieberg,211.75,GBP,Freelance Payment,Income,East Valerieberg,Swaziland
+b7cd5e8a-7beb-4d5c-aa45-d4930732a3ee,2025-07-26,Ryanair Deanborough,-176.33,USD,Ryanair,Travel,Deanborough,Comoros
+ed457c78-8bae-4f3e-a112-764af88aebac,2024-12-20,BP Petrol Stevensborough,-27.07,USD,BP Petrol,Transport,Stevensborough,Saint Barthelemy
+1d073e84-0ea3-4ddb-be7d-3bcd973a23a5,2025-03-09,Pizza Express Parkershire,-200.42,EUR,Pizza Express,Food,Parkershire,British Virgin Islands
+bed3c8ab-3590-49fa-91cd-d958ccd27c29,2025-08-15,H&M Murphyshire,-81.99,GBP,H&M,Shopping,Murphyshire,Zimbabwe
+aed68ad8-35da-4b21-b1c8-d4d77ba9ef58,2025-05-09,PureGym Burgesston,-98.83,GBP,PureGym,Health,Burgesston,Micronesia
+6ef6f3d4-10ea-44de-a426-e442220b2514,2025-10-14,Amazon Bennettburgh,-283.35,EUR,Amazon,Shopping,Bennettburgh,Puerto Rico
+3f0feaac-9bf3-41c0-a882-282c3c97dc18,2025-06-05,PayPal North Charlotte,-50.85,EUR,PayPal,Other,North Charlotte,Palestinian Territory
+ae3e0538-e60f-4578-b1e7-3ed7fc500ffa,2025-06-13,EasyJet Leannefurt,-97.64,EUR,EasyJet,Travel,Leannefurt,Italy
+664226e3-414e-49b6-9da4-072cb1fdd207,2025-10-30,Freelance Payment West Patricia,289.57,EUR,Freelance Payment,Income,West Patricia,Guam
+a6691b16-9df3-49dd-8917-047f509fe8a6,2025-10-27,Airbnb Nelsonberg,-141.69,EUR,Airbnb,Travel,Nelsonberg,Isle of Man
+ba50717b-81a0-4174-af45-f44a9178c539,2025-06-14,Sainsbury's Ritaside,-243.24,GBP,Sainsbury's,Groceries,Ritaside,Tokelau
+913908d6-4d3f-4179-9d5c-6aac43e48430,2025-02-28,PayPal East Rhys,-68.43,GBP,PayPal,Other,East Rhys,Nigeria
+c3955bd6-3420-4990-b395-92017045b8f4,2025-07-25,Uber Ellieberg,-214.79,GBP,Uber,Transport,Ellieberg,Russian Federation
+16c6995f-0fac-4110-975c-43fff8c19db1,2025-07-01,Boots Pharmacy New Joanna,-204.77,GBP,Boots Pharmacy,Health,New Joanna,Puerto Rico
+23f04197-8690-43b2-a2d1-9f06f7198a1c,2025-06-27,Uber Port Jayside,-285.87,GBP,Uber,Transport,Port Jayside,Lesotho
+e850757e-a9ea-47dc-b649-52ae228ea545,2025-06-07,Tax Refund Daviesside,167.29,EUR,Tax Refund,Income,Daviesside,France
+12bea31d-b997-40f7-a5ef-874e14243244,2025-09-23,Ryanair Mannhaven,-242.15,EUR,Ryanair,Travel,Mannhaven,Botswana
+b49fd2c2-54cb-4c83-bf6a-027a9908ea25,2024-11-15,Tesco North Vanessa,-23.19,EUR,Tesco,Groceries,North Vanessa,Azerbaijan
+977a1da3-f7f2-4012-b887-04d7c928e429,2025-01-18,Trainline West Jill,-247.98,GBP,Trainline,Transport,West Jill,El Salvador
+0eefb4b2-ff95-4281-99d5-c55dfbe289ca,2024-12-29,Waitrose Lake Bryanborough,-177.91,EUR,Waitrose,Groceries,Lake Bryanborough,Sao Tome and Principe
+4316d497-0f8c-49df-aded-9498caba577a,2025-05-23,McDonald's Alisonville,-63.34,USD,McDonald's,Food,Alisonville,Nicaragua
+258513a1-70ed-4175-a7f2-d229a5a0882c,2025-09-19,Booking.com Lake Eileen,-32.13,GBP,Booking.com,Travel,Lake Eileen,Monaco
+530fc8ba-d107-4b95-bb73-4a4dbad18327,2025-03-28,Tesco Hazelton,-282.97,EUR,Tesco,Groceries,Hazelton,Vanuatu
+f9e7212d-0708-44d3-a32a-d0af6b78f046,2025-03-25,Transport for London Andrewsmouth,-132.78,USD,Transport for London,Transport,Andrewsmouth,Micronesia
+44c6115f-b083-413a-bb50-fdcfbbe46d23,2024-11-25,Vision Express Reecemouth,-13.7,USD,Vision Express,Health,Reecemouth,Switzerland
+b49a9b43-4857-4067-a770-df6ce31d85aa,2025-01-27,NHS Prescription Joanside,-109.41,EUR,NHS Prescription,Health,Joanside,Saint Vincent and the Grenadines
+d072beed-da2b-4878-a871-402328f2e462,2025-06-14,Cineworld West Lucy,-136.57,EUR,Cineworld,Entertainment,West Lucy,Christmas Island
+6c06d60a-b010-4a0e-8b70-da5e8266ae4c,2025-10-31,Just Eat East Kylehaven,-187.66,EUR,Just Eat,Food,East Kylehaven,British Indian Ocean Territory (Chagos Archipelago)
+a2a28d93-ac4c-48a3-957c-bf33937c31f0,2025-03-24,PlayStation Store Whiteview,-126.54,USD,PlayStation Store,Entertainment,Whiteview,Bulgaria
+0db002ec-9b08-4727-a7a5-052fb1f570b1,2025-01-03,Ryanair Christophermouth,-30.88,GBP,Ryanair,Travel,Christophermouth,Lao People's Democratic Republic
+0cf9830a-fa43-425b-8e50-b3be0114c220,2025-07-23,BP Petrol North Carl,-63.84,USD,BP Petrol,Transport,North Carl,Vanuatu
+79919be1-4e4d-4f55-986d-b46a1856958d,2025-03-04,Apple Store Port Kayleighport,-239.48,GBP,Apple Store,Shopping,Port Kayleighport,Liechtenstein
+f4390f25-ac36-4429-a5f2-d4fe48af2a50,2025-08-22,Octopus Energy Liammouth,-165.63,GBP,Octopus Energy,Utilities,Liammouth,Malta
+a8e983ae-6cb2-4696-8acd-c0c1cd47d026,2025-01-25,EE Mobile New Joseph,-119.57,EUR,EE Mobile,Utilities,New Joseph,Solomon Islands
+00aed49a-e4a7-44ac-b5cc-e71f31b65ded,2025-05-09,Starbucks Freemanfurt,-181.15,EUR,Starbucks,Food,Freemanfurt,Bermuda
+03d614d4-7b4c-434a-a581-fdac53a0638e,2025-03-13,Netflix Lake Mohamed,-243.55,GBP,Netflix,Entertainment,Lake Mohamed,Greenland
+46bda7e5-478d-4c87-97c5-8a7f6821282b,2025-03-18,Freelance Payment Port Marian,231.22,EUR,Freelance Payment,Income,Port Marian,Marshall Islands
+6f0d2cc9-d0a5-4e0f-904c-acd39388cd34,2025-04-28,Uber North Aimeestad,-78.12,EUR,Uber,Transport,North Aimeestad,Kiribati
+7e7a583a-050a-4787-a135-c455d3b94a0b,2025-02-01,Netflix North Jill,-230.39,EUR,Netflix,Entertainment,North Jill,Turks and Caicos Islands
+2913d686-160e-40a7-93f4-15d39e109f03,2025-03-03,TransferWise South Douglasside,-109.67,EUR,TransferWise,Other,South Douglasside,Saint Kitts and Nevis
+c359fdec-ca98-4f93-bc9d-20377771da7c,2025-02-17,Trainline Katherinehaven,-179.79,USD,Trainline,Transport,Katherinehaven,Kiribati
+9b414d7e-6120-40c9-b738-01dc8367b8f4,2025-05-03,British Gas Naomiborough,-212.52,GBP,British Gas,Utilities,Naomiborough,Gibraltar
+862fc010-d5f9-46fd-ace0-4ef2e01964e0,2025-05-13,Bank Fee East Shannonside,-46.92,EUR,Bank Fee,Other,East Shannonside,Albania
+cda0cd7b-2c41-4b26-b69f-c42c6afd123c,2025-06-23,Airbnb Lake Harriet,-56.79,EUR,Airbnb,Travel,Lake Harriet,Singapore
+345a3d18-ed43-404f-948a-08ce7fcd9608,2025-01-23,Tesco Leeborough,-73.62,EUR,Tesco,Groceries,Leeborough,Mauritania
+ec91ee4d-3302-40d0-8b34-ca6b34bf700d,2025-09-05,Just Eat Willisland,-146.01,GBP,Just Eat,Food,Willisland,San Marino
+64eb4879-a471-46e0-976c-8f96c88a5e7e,2025-07-15,PayPal South Mohamedton,-242.9,GBP,PayPal,Other,South Mohamedton,Benin
+35c2bf62-009a-40ee-bdd5-ab6311b84d50,2024-12-02,Shell Port Tony,-22.57,EUR,Shell,Transport,Port Tony,Moldova
+a1a02397-79bd-461e-a190-939734988cda,2024-12-01,Bank Fee West Jane,-275.58,EUR,Bank Fee,Other,West Jane,Iceland
+788e8102-abe0-4bfd-8647-40c94d576d8f,2025-04-20,Freelance Payment Williamstown,288.36,GBP,Freelance Payment,Income,Williamstown,Iceland
+298eed85-f43d-4199-aaf2-30f55e17fb49,2025-07-10,Boots Pharmacy Lake Marianland,-104.29,GBP,Boots Pharmacy,Health,Lake Marianland,Saudi Arabia
+be6aea19-00b3-4449-9fad-9454c728dee7,2025-08-06,Trainline Lake Liamstad,-221.04,GBP,Trainline,Transport,Lake Liamstad,Vanuatu
+7c3414f6-88bd-4d69-ac8e-c90ee0025399,2025-05-09,Airbnb Joyceport,-56.39,USD,Airbnb,Travel,Joyceport,New Caledonia
+e16a5772-1709-4b21-9e76-eefdd3e231f7,2024-12-07,TransferWise Palmertown,-70.85,USD,TransferWise,Other,Palmertown,Lebanon
+67f332ed-4cc5-46f8-a6d8-3c3cad70d4ec,2025-01-02,BP Petrol East Deborah,-95.51,USD,BP Petrol,Transport,East Deborah,South Africa
+a0ccd60b-bebb-4f8f-8426-89158f57ce99,2025-08-24,Spotify Ashleighberg,-57.42,EUR,Spotify,Entertainment,Ashleighberg,French Southern Territories
+229622e1-ca8c-49a5-9e8b-678e72b297ca,2025-07-11,TransferWise Markside,-255.97,USD,TransferWise,Other,Markside,Tunisia
+7f3db932-7fcf-4c23-9175-36503ae2b04c,2025-05-28,Subway North Christophershire,-182.7,USD,Subway,Food,North Christophershire,Nepal
+64be3dd7-b25c-4c7e-9fc1-f383108a4af7,2025-03-30,Apple Store West Rhysstad,-35.71,GBP,Apple Store,Shopping,West Rhysstad,Croatia
+1dc540cc-6be8-4e37-b9d2-2585401b2c34,2025-04-06,Shell East Jeffrey,-224.88,EUR,Shell,Transport,East Jeffrey,Cyprus
+d342c4e6-34ee-409d-8bbf-b4130768730b,2025-06-19,EE Mobile Gordonville,-54.53,EUR,EE Mobile,Utilities,Gordonville,Cocos (Keeling) Islands
+e5c5086a-0186-433f-b147-0ef96b822740,2025-07-09,Octopus Energy Port Georginamouth,-8.36,EUR,Octopus Energy,Utilities,Port Georginamouth,Oman
+75f29e41-5128-4f23-b0e4-cce31045acea,2025-05-26,Amazon Vanessaland,-108.39,EUR,Amazon,Shopping,Vanessaland,El Salvador
+9c23545a-11f8-44a9-9d92-6fa35e7b2a2d,2024-12-11,McDonald's Watsonstad,-118.85,USD,McDonald's,Food,Watsonstad,Brunei Darussalam
+bdbac960-228b-489a-a38e-3f43b1bc2ad0,2025-07-09,NHS Prescription North Glen,-265.94,GBP,NHS Prescription,Health,North Glen,Niger
+39818e13-4afb-429e-972e-2413a19a9fcd,2024-12-01,PureGym West Danielle,-166.08,EUR,PureGym,Health,West Danielle,Korea
+866ad82d-7188-4483-ac71-026421211577,2025-03-06,Booking.com Annetteshire,-52.98,EUR,Booking.com,Travel,Annetteshire,Cape Verde
+b854670f-8d6f-4f04-8df5-67c07631f804,2025-05-31,Starbucks Guychester,-10.92,GBP,Starbucks,Food,Guychester,Chile
+fc39d101-2220-459c-8532-a9a525a77269,2024-11-07,Tesco Port Ross,-105.83,GBP,Tesco,Groceries,Port Ross,Rwanda
+4cda6e6b-774c-4c75-8d30-de5aa2554946,2025-08-03,Uber Whitestad,-166.38,EUR,Uber,Transport,Whitestad,Burkina Faso
+707eb0db-0c54-4aff-96e1-1d872b710868,2025-07-12,Octopus Energy Catherinemouth,-212.83,GBP,Octopus Energy,Utilities,Catherinemouth,Kiribati
+946ecfba-fbf6-4827-9509-94cdcf8d6ef7,2025-03-17,Transport for London Hollyside,-267.48,EUR,Transport for London,Transport,Hollyside,Botswana
+f72d90cf-5c8a-4a7c-aea0-41e67641a6ee,2025-01-09,McDonald's Port Leonardberg,-102.67,EUR,McDonald's,Food,Port Leonardberg,Uganda
+82fd3e2b-1883-416a-9b4a-01f07f9fc377,2025-05-22,PureGym Kayleighland,-199.88,GBP,PureGym,Health,Kayleighland,Saint Lucia
+80ac67f8-151f-4dfb-8a89-90856fca2a4c,2024-12-03,Amazon Port Kathleentown,-19.64,USD,Amazon,Shopping,Port Kathleentown,Suriname
+c207e534-91ff-4b99-a66e-c0568f5f8545,2025-06-06,Freelance Payment Hiltonborough,50.31,GBP,Freelance Payment,Income,Hiltonborough,United States of America
+447ac6d4-17b2-4130-aa2e-9b67fdbdaa17,2024-11-19,Pizza Express Paigeside,-30.85,USD,Pizza Express,Food,Paigeside,Latvia
+2dea7a3e-7a0e-46d4-9a5e-2aff6b857d2c,2025-07-03,TransferWise West Deborah,-63.9,EUR,TransferWise,Other,West Deborah,Czech Republic
+aefc2318-ff1f-4c92-843d-7f920f22fdf0,2025-09-28,Zara Aaronmouth,-193.27,EUR,Zara,Shopping,Aaronmouth,Macao
+2c5afa56-ed6e-41a0-bc92-bb3b8d086038,2025-05-11,Ryanair Evanstown,-95.96,GBP,Ryanair,Travel,Evanstown,Panama
+55a5a6cc-58bc-4b53-ae9c-2e92c625d98e,2025-02-01,EasyJet Port Katherine,-268.99,GBP,EasyJet,Travel,Port Katherine,Burundi
+0e025cec-174c-48e7-8008-d0fd9a8eac5b,2025-04-18,Waitrose New Anna,-119.32,GBP,Waitrose,Groceries,New Anna,Palestinian Territory
+f0d8e7f7-81e5-4697-b4db-547231ae66f5,2025-09-21,PureGym Lake Pamela,-60.04,EUR,PureGym,Health,Lake Pamela,Wallis and Futuna
+7a20892d-0acb-4792-b1ee-6ce5db75551b,2025-03-17,PlayStation Store Port Holly,-142.19,EUR,PlayStation Store,Entertainment,Port Holly,Djibouti
+03adaf1a-47c0-47f0-b3a4-c76c9aa3c34a,2024-11-29,Netflix Donaldton,-49.58,USD,Netflix,Entertainment,Donaldton,Paraguay
+de0032d1-1657-4219-8420-324df4e1831c,2025-01-20,Tesco Charlottefort,-202.1,USD,Tesco,Groceries,Charlottefort,United States Virgin Islands
+224b471d-36b4-4bd0-9483-bdf2bfdfdbdc,2025-04-21,NHS Prescription North Francescamouth,-168.31,GBP,NHS Prescription,Health,North Francescamouth,Bosnia and Herzegovina
+7a7d834c-2f6e-44cb-ba23-52f38d3b6db4,2025-07-21,Freelance Payment Marcusshire,289.86,USD,Freelance Payment,Income,Marcusshire,Mayotte
+2b991c9d-864c-43a6-81a0-7be1d65cfd30,2025-06-02,Booking.com Lambertstad,-145.5,EUR,Booking.com,Travel,Lambertstad,Namibia
+7c7cda51-12e5-45c9-9575-e1116b460f2a,2025-07-03,Boots Pharmacy New Tonyfurt,-153.12,USD,Boots Pharmacy,Health,New Tonyfurt,United States of America
+e143d1d3-3f4c-4e79-8d68-ca64e877bb0e,2025-01-26,Bank Fee Ingramstad,-294.91,EUR,Bank Fee,Other,Ingramstad,Libyan Arab Jamahiriya
+0c683328-b36b-4147-a1aa-715ba31f311a,2025-08-23,Aldi New Bradleymouth,-56.0,EUR,Aldi,Groceries,New Bradleymouth,Chad
+5b651266-6d29-41e8-822e-bf18d114d049,2025-01-29,Zara Phillipberg,-42.22,GBP,Zara,Shopping,Phillipberg,Colombia
+2a006993-2216-4150-8deb-f0d0079ab40b,2025-01-02,Aldi Lake Bernardchester,-64.57,USD,Aldi,Groceries,Lake Bernardchester,Sudan
+483fce4f-8e8b-4d1b-a790-11b43ff66d42,2025-03-06,Transport for London South Francesfort,-81.08,USD,Transport for London,Transport,South Francesfort,Lesotho
+18f1bb8e-2dd0-451f-b674-9ef4f0dc9c76,2025-01-22,Tesco Lake Victoria,-119.49,GBP,Tesco,Groceries,Lake Victoria,Angola
+26799254-a847-43ae-993f-fc437415724a,2025-02-03,Freelance Payment New Jenna,257.7,USD,Freelance Payment,Income,New Jenna,Central African Republic
+853e6fc9-8e3f-4080-8b22-9db1922cd592,2024-12-25,Ryanair New Seanton,-237.03,USD,Ryanair,Travel,New Seanton,Chad
+fe6b02bf-51d2-463a-a33b-4a3436deba90,2025-02-08,Bank Fee New Carol,-235.6,EUR,Bank Fee,Other,New Carol,Netherlands Antilles
+55b23651-b820-4349-8138-8981b1e19d98,2025-10-26,NHS Prescription Lake Ireneport,-48.72,USD,NHS Prescription,Health,Lake Ireneport,Yemen
+d4edca4e-8cb4-4831-bbff-c14994bbb4e3,2024-12-07,PayPal Jenkinsfort,-277.85,USD,PayPal,Other,Jenkinsfort,Trinidad and Tobago
+0f83a019-d4bf-4e92-95e9-88efd6261da7,2025-05-01,Lidl Port Victoria,-260.91,GBP,Lidl,Groceries,Port Victoria,Netherlands Antilles
+c0889e8d-0179-437d-b720-b0f999f47b80,2024-12-28,PureGym New Katy,-118.0,GBP,PureGym,Health,New Katy,Malawi
+1630feec-c4a2-4163-846e-d70b5fa76a11,2025-02-10,Bank Fee Sandrashire,-144.55,EUR,Bank Fee,Other,Sandrashire,Bangladesh
+065199ed-b1a3-4b9c-872e-637896d5fc36,2025-01-29,PlayStation Store Danielstown,-47.44,USD,PlayStation Store,Entertainment,Danielstown,Cook Islands
+f8e3670c-b678-4fe0-bb1d-817db8ea16e2,2025-05-16,Boots Pharmacy Masonville,-121.76,GBP,Boots Pharmacy,Health,Masonville,Christmas Island
+e8e9bafe-b59e-42d9-812c-fbf2a29c6014,2025-04-29,Amazon Port Staceyhaven,-225.0,GBP,Amazon,Shopping,Port Staceyhaven,Sao Tome and Principe
+44e8bfcf-8855-4408-a402-e4173bc77c1c,2024-12-19,British Gas Knowlesside,-104.67,GBP,British Gas,Utilities,Knowlesside,Sweden
+d8c24356-6f52-404f-9a28-04790b0dd961,2024-11-06,Cineworld Bishopstad,-253.64,USD,Cineworld,Entertainment,Bishopstad,Tunisia
+0d816ad0-a30c-493c-aed7-4beafbac06b0,2024-11-21,Sainsbury's Wilsonfort,-44.64,USD,Sainsbury's,Groceries,Wilsonfort,Somalia
+a0dce7d8-cbd9-4b3c-977d-d105924cea77,2025-08-14,Airbnb Joanshire,-84.48,GBP,Airbnb,Travel,Joanshire,Bolivia
+29a48ea0-15ee-418a-a259-8dc19fed39f6,2025-04-10,Bank Fee Lesleybury,-31.34,GBP,Bank Fee,Other,Lesleybury,United States of America
+aff2bac3-9296-49a6-bad8-ef23319e5a82,2025-09-16,IKEA Juneside,-223.58,USD,IKEA,Shopping,Juneside,Ireland
+acb26a51-b37a-471a-9dd3-0d203e697c06,2025-02-08,British Gas Lake Thomasshire,-157.0,EUR,British Gas,Utilities,Lake Thomasshire,Mali
+665b8762-18e9-480f-acef-a0a7c31ace24,2024-12-19,Lidl South Abbieborough,-214.32,GBP,Lidl,Groceries,South Abbieborough,Portugal
+f8ef6856-71d8-4111-8cf7-c36571c95c4f,2025-08-27,Transport for London Evansberg,-264.4,EUR,Transport for London,Transport,Evansberg,Japan
+127c955e-ae1a-4e17-a168-7ca80074a21b,2025-07-02,Trainline Elliotside,-263.18,EUR,Trainline,Transport,Elliotside,Jamaica
+ff163773-8f66-4793-9d0b-fe15fe99f7de,2025-05-31,Subway Gailfurt,-14.76,EUR,Subway,Food,Gailfurt,Saudi Arabia
+6c3cacab-086a-48ce-8b04-009186376916,2025-01-19,Thames Water Carpenterside,-85.82,GBP,Thames Water,Utilities,Carpenterside,Moldova
+8690c61d-2770-4f15-81f0-d533821ded46,2025-05-02,Freelance Payment Melissastad,192.45,EUR,Freelance Payment,Income,Melissastad,Singapore
+ba695f34-4131-47d3-8ec1-5529ad371576,2025-07-22,Subway Port Katy,-114.88,USD,Subway,Food,Port Katy,British Indian Ocean Territory (Chagos Archipelago)
+f2728bd1-11b5-486e-8772-1b7c687c55be,2025-08-06,Booking.com Gillburgh,-288.35,GBP,Booking.com,Travel,Gillburgh,Bolivia
+54829986-4dff-4ea2-816a-1f8808a37f84,2025-01-23,Bank Fee Thorntonside,-108.18,EUR,Bank Fee,Other,Thorntonside,Nicaragua
+c5d91161-a1d9-4437-8e9f-652f25f2c928,2025-07-19,Netflix East Janettown,-89.1,GBP,Netflix,Entertainment,East Janettown,Spain
+a6c7f426-7a88-4162-8280-567bdb837538,2024-12-09,Subway South Grace,-256.88,EUR,Subway,Food,South Grace,Jordan
+c2fb7f8b-8346-4d0b-93d8-30fdc5cb26ff,2024-12-08,Zara Rossstad,-204.92,GBP,Zara,Shopping,Rossstad,Belgium
+66ee24aa-63da-45bc-86f8-3720e60aac63,2025-06-16,Boots Pharmacy Begumfurt,-260.07,USD,Boots Pharmacy,Health,Begumfurt,Nicaragua
+a6ef349a-d370-45df-852e-5e9bdd1076e5,2025-07-04,Pizza Express Jodieton,-273.9,USD,Pizza Express,Food,Jodieton,Yemen
+88f2795c-5458-4153-8188-4665d7ef15dd,2025-08-16,Transport for London Lake Olivia,-241.26,EUR,Transport for London,Transport,Lake Olivia,Kazakhstan
+3fb28aa3-3a69-4c72-ad86-e479d5057f51,2024-11-09,Cineworld Gordonton,-215.26,USD,Cineworld,Entertainment,Gordonton,Slovenia
+03da56ba-4d13-43e0-aa34-8ff589954590,2025-06-13,PlayStation Store New Leslie,-269.17,GBP,PlayStation Store,Entertainment,New Leslie,Peru
+9977c647-31ab-40c4-b287-6ae46ebdf1df,2024-11-19,Airbnb Lake David,-69.37,GBP,Airbnb,Travel,Lake David,Cayman Islands
+9bba51ff-d63e-4f10-af8f-0cc773f67429,2024-12-07,Tax Refund Traceystad,122.16,EUR,Tax Refund,Income,Traceystad,Paraguay
+df2acc74-a2db-4f2a-b6df-0b0f48fd71ac,2025-03-30,Just Eat New Stephen,-299.83,GBP,Just Eat,Food,New Stephen,Saint Pierre and Miquelon
+a99e85b2-04d7-4270-89d9-2c66575bdd64,2025-07-21,Tax Refund New Glenside,180.16,GBP,Tax Refund,Income,New Glenside,United States Virgin Islands
+baffa2ca-8bdd-451e-a1c0-0f639eab0cc2,2025-06-07,Netflix Martynbury,-147.11,GBP,Netflix,Entertainment,Martynbury,New Caledonia
+15d9f96d-87f8-4f37-b13b-cd5bb360b157,2025-10-24,Cineworld Murrayshire,-259.14,GBP,Cineworld,Entertainment,Murrayshire,Albania
+16a4acf5-8695-45d0-983d-8c46dba83f0d,2025-02-09,Spotify Loweside,-49.23,EUR,Spotify,Entertainment,Loweside,Barbados
+8af56285-ef42-4499-967b-6ac3aa3471f7,2025-05-09,Just Eat Connorhaven,-124.21,GBP,Just Eat,Food,Connorhaven,Zimbabwe
+0fe6a92a-cec1-4d0b-9cee-b4b538da6aed,2025-02-08,Uber Annettemouth,-198.34,GBP,Uber,Transport,Annettemouth,Honduras
+2e925201-be72-4422-8d15-1d33299a39c6,2025-05-31,PlayStation Store Port Declan,-124.36,USD,PlayStation Store,Entertainment,Port Declan,Singapore
+5b31d176-59dc-4042-bc1c-9b2f91aa7f73,2025-04-22,Just Eat Wheelertown,-213.88,USD,Just Eat,Food,Wheelertown,Liberia
+dcc9479f-3812-4c29-a7b2-9a64809fa047,2024-12-18,H&M South Ashleighbury,-219.33,EUR,H&M,Shopping,South Ashleighbury,Philippines
+10233a4f-b467-4a65-8bc0-180eff02255d,2025-07-20,Tax Refund Amystad,236.54,USD,Tax Refund,Income,Amystad,Maldives
+7451245a-8e0b-4c87-8003-0aed2788eb82,2025-05-21,EE Mobile Frederickport,-254.4,USD,EE Mobile,Utilities,Frederickport,Bermuda
+8e1a9ccf-4ad1-4a2c-9088-2ed217bac574,2025-04-01,Salary ACME Ltd Keithside,91.67,GBP,Salary ACME Ltd,Income,Keithside,Venezuela
+cdc9fc26-616b-47b3-9d64-cfa27df21ccb,2025-01-10,Shell Owenborough,-218.93,USD,Shell,Transport,Owenborough,Uganda
+645abee6-4812-4281-bd39-7463f64a9ac2,2025-06-03,Shell Lake Jill,-198.06,EUR,Shell,Transport,Lake Jill,Venezuela
+54cedee4-b9bd-41c2-b94e-e2416ab3b60a,2025-10-05,Thames Water Prattbury,-224.54,GBP,Thames Water,Utilities,Prattbury,Saint Pierre and Miquelon
+e290fb66-7fd4-42eb-bfe5-871896059a29,2025-02-02,PureGym Russellbury,-114.65,USD,PureGym,Health,Russellbury,Cook Islands
+c182c6f7-717d-48f1-bf4d-2beb3e1ee206,2025-09-07,PlayStation Store Deanville,-256.11,GBP,PlayStation Store,Entertainment,Deanville,British Indian Ocean Territory (Chagos Archipelago)
+c444a54e-d6a5-4e5d-b8a7-924126516206,2025-10-08,Just Eat Flynnside,-176.19,USD,Just Eat,Food,Flynnside,Armenia
+eaf52b6f-614d-4785-af83-e9b112cf526f,2025-09-12,Aldi Jasminemouth,-267.38,USD,Aldi,Groceries,Jasminemouth,Lithuania
+1e76f13f-21f0-4ac1-a3e7-aed9730e2dfa,2025-09-30,Aldi Abigailburgh,-161.3,GBP,Aldi,Groceries,Abigailburgh,Serbia
+307f828f-3a18-4194-bdc8-fee19af1137a,2025-10-07,Subway Patriciabury,-45.52,EUR,Subway,Food,Patriciabury,Sao Tome and Principe
+c7380d8b-fc46-442e-8fb9-7ef248e644db,2025-06-05,Octopus Energy New Maryfort,-296.22,GBP,Octopus Energy,Utilities,New Maryfort,Wallis and Futuna
+6d668869-789d-44ae-bc38-9f7806ef2cc2,2025-05-22,Shell Lisaburgh,-259.41,EUR,Shell,Transport,Lisaburgh,Kuwait
+03ecd10c-b200-42e8-8cc6-9616754867dd,2025-10-29,Aldi Saunderstown,-103.13,EUR,Aldi,Groceries,Saunderstown,American Samoa
+bb01ce95-76f0-4e21-a3c8-8b422db06371,2025-07-10,British Gas Jacksonmouth,-6.39,GBP,British Gas,Utilities,Jacksonmouth,Guyana
+f9225dc4-0168-431f-89b3-2cd5f1f517fb,2025-06-18,Zara Christianside,-175.0,EUR,Zara,Shopping,Christianside,Estonia
+f049f750-a7f6-41d4-9c95-2c1114d15161,2025-01-31,Ryanair Haywardmouth,-43.17,GBP,Ryanair,Travel,Haywardmouth,Haiti
